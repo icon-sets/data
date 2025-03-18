@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@iconify/json": "^2.2.317",
+    "@iconify/utils": "^2.3.0",
+    "es-toolkit": "^1.33.0",
+    "json2md": "^2.0.2"
+  }
+}
