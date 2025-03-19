@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'%3E%3Crect width='10' height='10' x='1' y='1' fill='black' rx='1'%3E%3Canimate id='svgSpinnersBlocksShuffle20' fill='freeze' attributeName='x' begin='0;svgSpinnersBlocksShuffle27.end' dur='0.2s' values='1;13'/%3E%3Canimate id='svgSpinnersBlocksShuffle21' fill='freeze' attributeName='y' begin='svgSpinnersBlocksShuffle24.end' dur='0.2s' values='1;13'/%3E%3Canimate id='svgSpinnersBlocksShuffle22' fill='freeze' attributeName='x' begin='svgSpinnersBlocksShuffle25.end' dur='0.2s' values='13;1'/%3E%3Canimate id='svgSpinnersBlocksShuffle23' fill='freeze' attributeName='y' begin='svgSpinnersBlocksShuffle26.end' dur='0.2s' values='13;1'/%3E%3C/rect%3E%3Crect width='10' height='10' x='1' y='13' fill='black' rx='1'%3E%3Canimate id='svgSpinnersBlocksShuffle24' fill='freeze' attributeName='y' begin='svgSpinnersBlocksShuffle20.end' dur='0.2s' values='13;1'/%3E%3Canimate id='svgSpinnersBlocksShuffle25' fill='freeze' attributeName='x' begin='svgSpinnersBlocksShuffle21.end' dur='0.2s' values='1;13'/%3E%3Canimate id='svgSpinnersBlocksShuffle26' fill='freeze' attributeName='y' begin='svgSpinnersBlocksShuffle22.end' dur='0.2s' values='1;13'/%3E%3Canimate id='svgSpinnersBlocksShuffle27' fill='freeze' attributeName='x' begin='svgSpinnersBlocksShuffle23.end' dur='0.2s' values='13;1'/%3E%3C/rect%3E%3C/svg%3E");
+}

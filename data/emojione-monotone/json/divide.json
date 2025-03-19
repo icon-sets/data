@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 64,
+  "height": 64,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<path fill=\"currentColor\" d=\"M2 26h60v12H2z\"/><circle cx=\"32\" cy=\"9.5\" r=\"7.5\" fill=\"currentColor\"/><circle cx=\"32\" cy=\"54.5\" r=\"7.5\" fill=\"currentColor\"/>"
+}

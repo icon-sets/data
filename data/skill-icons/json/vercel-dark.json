@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 256,
+  "height": 256,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<g fill=\"none\"><rect width=\"256\" height=\"256\" fill=\"#242938\" rx=\"60\"/><path fill=\"#fff\" d=\"m128 34l95 164.853H33z\"/></g>"
+}

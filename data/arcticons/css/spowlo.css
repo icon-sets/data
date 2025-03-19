@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48' width='48' height='48'%3E%3Cpath fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' d='M23.86 42.5c-4.34-2.7-7.22-7.51-7.22-13c0-8.45 6.85-15.3 15.3-15.3c4.1 0 7.82 1.6 10.56 4.22'/%3E%3Crect width='37' height='37' x='5.5' y='5.5' fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' rx='4' ry='4'/%3E%3Cpath fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' d='m12.43 5.5l6.565 5.668a9.74 9.74 0 0 1 2.865 4.26l2.795 8.283'/%3E%3Ccircle cx='32.44' cy='30.439' r='2.76' fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' d='m26.986 29.08l1.124-5.746a.51.51 0 0 0-.666-.58l-5.538 1.9a.51.51 0 0 0-.17.867l4.415 3.846a.51.51 0 0 0 .835-.287'/%3E%3C/svg%3E");
+}

@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 256 256' width='256' height='256'%3E%3Cg fill='none'%3E%3Crect width='256' height='256' fill='%23F4F2ED' rx='60'/%3E%3Cg clip-path='url(%23skillIconsSupabaseLight2)'%3E%3Cpath fill='url(%23skillIconsSupabaseLight0)' d='M144.757 223.193c-5.061 6.373-15.323 2.881-15.445-5.257l-1.783-119.029h80.035c14.496 0 22.581 16.744 13.567 28.097z'/%3E%3Cpath fill='url(%23skillIconsSupabaseLight1)' fill-opacity='.2' d='M144.757 223.193c-5.061 6.373-15.323 2.881-15.445-5.257l-1.783-119.029h80.035c14.496 0 22.581 16.744 13.567 28.097z'/%3E%3Cpath fill='%233ECF8E' d='M112.207 31.666c5.061-6.375 15.323-2.882 15.445 5.256l.782 119.029H49.4c-14.497 0-22.582-16.744-13.567-28.097z'/%3E%3C/g%3E%3Cdefs%3E%3ClinearGradient id='skillIconsSupabaseLight0' x1='127.529' x2='198.661' y1='125.299' y2='155.132' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%23249361'/%3E%3Cstop offset='1' stop-color='%233ECF8E'/%3E%3C/linearGradient%3E%3ClinearGradient id='skillIconsSupabaseLight1' x1='95.993' x2='128.433' y1='82.12' y2='143.187' gradientUnits='userSpaceOnUse'%3E%3Cstop/%3E%3Cstop offset='1' stop-opacity='0'/%3E%3C/linearGradient%3E%3CclipPath id='skillIconsSupabaseLight2'%3E%3Cpath fill='%23fff' d='M32 28h192.92v200H32z'/%3E%3C/clipPath%3E%3C/defs%3E%3C/g%3E%3C/svg%3E");
+}

@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'%3E%3Cmask id='lineMdChatOffTwotone0'%3E%3Cg fill='none' stroke='%23fff' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'%3E%3Cpath fill='%23fff' fill-opacity='0' stroke-dasharray='72' stroke-dashoffset='72' d='M3 19.5v-15.5c0 -0.55 0.45 -1 1 -1h16c0.55 0 1 0.45 1 1v12c0 0.55 -0.45 1 -1 1h-14.5Z'%3E%3Canimate fill='freeze' attributeName='fill-opacity' begin='0.7s' dur='0.15s' values='0;0.3'/%3E%3Canimate fill='freeze' attributeName='stroke-dashoffset' dur='0.6s' values='72;0'/%3E%3C/path%3E%3Cpath stroke-dasharray='10' stroke-dashoffset='10' d='M8 7h8'%3E%3Canimate fill='freeze' attributeName='stroke-dashoffset' begin='0.85s' dur='0.2s' values='10;0'/%3E%3C/path%3E%3Cpath stroke-dasharray='10' stroke-dashoffset='10' d='M8 10h8'%3E%3Canimate fill='freeze' attributeName='stroke-dashoffset' begin='1.15s' dur='0.2s' values='10;0'/%3E%3C/path%3E%3Cpath stroke-dasharray='6' stroke-dashoffset='6' d='M8 13h4'%3E%3Canimate fill='freeze' attributeName='stroke-dashoffset' begin='1.45s' dur='0.2s' values='6;0'/%3E%3C/path%3E%3Cpath stroke='%23000' stroke-dasharray='28' stroke-dashoffset='28' d='M-1 11h26' transform='rotate(45 12 12)'%3E%3Canimate fill='freeze' attributeName='stroke-dashoffset' begin='1.65s' dur='0.4s' values='28;0'/%3E%3C/path%3E%3Cpath stroke-dasharray='28' stroke-dashoffset='28' d='M-1 13h26' transform='rotate(45 12 12)'%3E%3Canimate fill='freeze' attributeName='stroke-dashoffset' begin='1.65s' dur='0.4s' values='28;0'/%3E%3C/path%3E%3C/g%3E%3C/mask%3E%3Crect width='24' height='24' fill='black' mask='url(%23lineMdChatOffTwotone0)'/%3E%3C/svg%3E");
+}

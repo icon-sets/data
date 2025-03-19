@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'%3E%3Cg fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' color='black'%3E%3Cpath d='M15.021 5c0-1.414 0-2.121.511-2.56c.512-.44 1.334-.44 2.98-.44s2.468 0 2.979.44C22 2.878 22 3.585 22 5s0 2.121-.51 2.56s-1.333.44-2.98.44s-2.467 0-2.979-.44c-.51-.439-.51-1.146-.51-2.56m0 14c0-1.414 0-2.121.511-2.56c.512-.44 1.334-.44 2.98-.44s2.468 0 2.979.44c.51.439.51 1.146.51 2.56s0 2.121-.51 2.56c-.511.44-1.334.44-2.98.44s-2.467 0-2.979-.44c-.51-.439-.51-1.146-.51-2.56m-7.967-1.956c2.77 0 4.975-2.26 4.975-5.039a5.023 5.023 0 0 0-5.016-5.03m.041 10.069c-2.77 0-5.057-2.26-5.057-5.039a5.023 5.023 0 0 1 5.016-5.03m.041 10.069c-.07 2.13 1.49 2.907 2.6 2.948h2.375M7.014 6.976c-.07-2.16 1.516-2.92 2.64-2.968h2.387'/%3E%3Cpath d='m8.71 10.88l-2.072 2.166a.2.2 0 0 1-.286.002l-.972-1.002'/%3E%3C/g%3E%3C/svg%3E");
+}

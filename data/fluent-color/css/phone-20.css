@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' width='20' height='20'%3E%3Cg fill='none'%3E%3Cpath fill='url(%23fluentColorPhone200)' d='M6.5 2A1.5 1.5 0 0 0 5 3.5v13A1.5 1.5 0 0 0 6.5 18h7a1.5 1.5 0 0 0 1.5-1.5v-13A1.5 1.5 0 0 0 13.5 2z'/%3E%3Cpath fill='url(%23fluentColorPhone201)' d='M9 14h2a.5.5 0 0 1 0 1H9a.5.5 0 0 1 0-1'/%3E%3Cdefs%3E%3CradialGradient id='fluentColorPhone200' cx='0' cy='0' r='1' gradientTransform='matrix(9.68748 18.09997 -35.3524 18.92133 5 1.5)' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%23CB7DF8'/%3E%3Cstop offset='.412' stop-color='%239C6CFE'/%3E%3Cstop offset='1' stop-color='%234E44DB'/%3E%3C/radialGradient%3E%3CradialGradient id='fluentColorPhone201' cx='0' cy='0' r='1' gradientTransform='rotate(40.863 -14.865 17.813)scale(5.24774 6.16903)' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%23DECBFF'/%3E%3Cstop offset='1' stop-color='%23D1D1FF'/%3E%3C/radialGradient%3E%3C/defs%3E%3C/g%3E%3C/svg%3E");
+}

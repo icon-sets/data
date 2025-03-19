@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 15 15' width='15' height='15'%3E%3Cdefs%3E%3Cpath id='radixIconsDrawingPinFilled0' d='M9.621 1.136a.5.5 0 0 1 .707 0l1.061 1.06l1.414 1.415l1.06 1.06a.5.5 0 1 1-.706.708l-.653-.653l-3.637 4.848l1.108 1.108a.5.5 0 0 1-.707.707L7.854 9.975l-1.061-1.06l-3.27 3.27a.5.5 0 1 1-.708-.708l3.27-3.27l-1.06-1.06l-1.414-1.415a.5.5 0 1 1 .707-.707l1.108 1.108l4.848-3.637l-.653-.653a.5.5 0 0 1 0-.707'/%3E%3C/defs%3E%3Cg fill='black' fill-rule='evenodd' clip-rule='evenodd'%3E%3Cuse href='%23radixIconsDrawingPinFilled0'/%3E%3Cuse href='%23radixIconsDrawingPinFilled0'/%3E%3C/g%3E%3C/svg%3E");
+}

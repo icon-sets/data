@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 48,
+  "height": 48,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<circle cx=\"17.745\" cy=\"16.846\" r=\"11.346\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"30.255\" cy=\"31.154\" r=\"11.346\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+}

@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 36 36' width='36' height='36'%3E%3Cpath fill='%23D1D3D4' d='M5 23h26v7H5z'/%3E%3Cpath fill='%23D99E82' d='M0 36h36l-4-7H4z'/%3E%3Cpath fill='%2366757F' d='M30 20H6l-5 4h34z'/%3E%3Cpath fill='%23D1D3D4' d='M18 9.882L9.764 14h16.472z'/%3E%3Cpath fill='%2366757F' d='m30 14l-1-5H7l-1 5l-4 3h32zM18 9.882L26.236 14H9.764z'/%3E%3Cpath fill='%23D1D3D4' d='M6 17h24v3H6zm18-8V5H12v4h-2v2h16V9z'/%3E%3Cpath fill='%2366757F' d='M12 2h12v2l2 2H10l2-2z'/%3E%3Cpath fill='%2399AAB5' d='M23 0v1H13V0h-1v2h12V0z'/%3E%3Cpath fill='%2366757F' d='m30 14.764l-5.105-2.553l-6-3L18 8.764l-.895.447l-6 3L6 14.764V16h24zM12 14l6-3l6 3z'/%3E%3Cpath fill='%236D6E71' d='M5 27h26v2H5z'/%3E%3C/svg%3E");
+}

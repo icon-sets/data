@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' width='512' height='512'%3E%3Cmask id='circleFlagsUn0'%3E%3Ccircle cx='256' cy='256' r='256' fill='%23fff'/%3E%3C/mask%3E%3Cg mask='url(%23circleFlagsUn0)'%3E%3Cpath fill='%23338af3' d='M0 0h512v512H0z'/%3E%3Ccircle cx='256' cy='256' r='145' fill='%23eee'/%3E%3Ccircle cx='256' cy='256' r='111' fill='%23338af3'/%3E%3Cpath fill='%23338af3' d='M76 76h360L256 256z'/%3E%3Ccircle cx='256' cy='256' r='89' fill='%23eee'/%3E%3Ccircle cx='256' cy='256' r='69' fill='%23338af3'/%3E%3Cpath fill='%23eee' d='M246 178h20v156h-20z'/%3E%3Cpath fill='%23eee' d='M334 246v20H178v-20z'/%3E%3Cpath fill='%23eee' d='m304 193.7l14.2 14.2l-110.3 110.3l-14.2-14.1z'/%3E%3Cpath fill='%23eee' d='m318.2 304l-14.1 14.2l-110.4-110.3l14.2-14.2z'/%3E%3Ccircle cx='256' cy='256' r='44' fill='%23eee'/%3E%3Ccircle cx='256' cy='256' r='22' fill='%23338af3'/%3E%3Cellipse cx='256' cy='412' fill='%23eee' rx='44' ry='40'/%3E%3Cpath fill='%23338af3' d='m256 407l-78 63h156z'/%3E%3C/g%3E%3C/svg%3E");
+}

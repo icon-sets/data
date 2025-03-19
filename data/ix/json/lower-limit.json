@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 512,
+  "height": 512,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M256 405.333L114.325 287.296l27.328-32.79l93.013 77.505V64h42.667v268.01l92.992-77.503l27.328 32.789zm-170.667 0h341.333V448H85.333z\"/>"
+}

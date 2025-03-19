@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48' width='48' height='48'%3E%3Cdefs%3E%3Cmask id='ipTLightHouse0'%3E%3Cg fill='none' stroke='%23fff' stroke-linejoin='round' stroke-width='4'%3E%3Cpath stroke-linecap='round' d='M6 44h36M17 20h14'/%3E%3Cpath fill='%23555' d='M19 20h10l3 24H16z'/%3E%3Cpath stroke-linecap='round' d='m19 9l2 11h6l2-11'/%3E%3Cpath stroke-linecap='round' d='m32 12l-3-3l-5-5l-5 5l-3 3m21-5l3-3M11 7L8 4m29 15l3 3m-29-3l-3 3m30-9h4m-32 0H6m12 15h12m-13 8h14'/%3E%3Cpath d='m29 20l3 24M19 20l-3 24'/%3E%3C/g%3E%3C/mask%3E%3C/defs%3E%3Cpath fill='black' d='M0 0h48v48H0z' mask='url(%23ipTLightHouse0)'/%3E%3C/svg%3E");
+}

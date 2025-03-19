@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 16,
+  "height": 16,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<rect width=\"12\" height=\"12\" x=\"2\" y=\"2\" fill=\"currentColor\" fill-rule=\"evenodd\" rx=\"2\"/>"
+}

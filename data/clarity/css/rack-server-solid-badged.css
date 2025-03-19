@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 36 36' width='36' height='36'%3E%3Cpath fill='black' d='M2 14v8h32v-8Zm6 5H6v-2h2Zm16 0H10v-2h14Z' class='clr-i-solid--badged clr-i-solid-path-1--badged'/%3E%3Cpath fill='black' d='M2 30a2 2 0 0 0 2 2h28a2 2 0 0 0 2-2v-6H2Zm8-3h14v2H10Zm-4 0h2v2H6Z' class='clr-i-solid--badged clr-i-solid-path-2--badged'/%3E%3Cpath fill='black' d='M23.13 9H10V7h12.57a7.5 7.5 0 0 1-.07-1a7.5 7.5 0 0 1 .28-2H4a2 2 0 0 0-2 2v6h23.51a7.5 7.5 0 0 1-2.38-3M8 9H6V7h2Z' class='clr-i-solid--badged clr-i-solid-path-3--badged'/%3E%3Ccircle cx='30' cy='6' r='5' fill='black' class='clr-i-solid--badged clr-i-solid-path-4--badged clr-i-badge'/%3E%3Cpath fill='none' d='M0 0h36v36H0z'/%3E%3C/svg%3E");
+}

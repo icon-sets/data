@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 128 128' width='128' height='128'%3E%3Cdefs%3E%3Cpath id='notoV1WaningCrescentMoon0' d='M127.76 64c0 35.22-28.55 63.77-63.76 63.77C28.78 127.77.23 99.22.23 64C.23 28.79 28.78.23 64 .23c35.21 0 63.76 28.56 63.76 63.77'/%3E%3C/defs%3E%3Cuse fill='%23fcc21b' href='%23notoV1WaningCrescentMoon0'/%3E%3CclipPath id='notoV1WaningCrescentMoon1'%3E%3Cuse href='%23notoV1WaningCrescentMoon0'/%3E%3C/clipPath%3E%3Cpath fill='%232f2f2f' d='M142.83 64c0 35.22-25.82 63.77-57.68 63.77S27.46 99.23 27.46 64C27.46 28.79 53.28.23 85.15.23c31.86 0 57.68 28.56 57.68 63.77' clip-path='url(%23notoV1WaningCrescentMoon1)'/%3E%3C/svg%3E");
+}

@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 48,
+  "height": 48,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<defs><path id=\"arcticonsEmojiBookmark0\" fill=\"none\" stroke=\"currentColor\" d=\"M32.277 42.5L24 33.34l-8.277 9.16v-37h16.554z\"/></defs><use href=\"#arcticonsEmojiBookmark0\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><use href=\"#arcticonsEmojiBookmark0\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+}

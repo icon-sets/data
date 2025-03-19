@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'%3E%3Cg fill='none'%3E%3Cpath fill='black' fill-opacity='.25' d='m17.33 6.342l-5.106 10.21a.25.25 0 0 1-.448 0L6.671 6.343a.5.5 0 0 1 .67-.671l4.212 2.105a1 1 0 0 0 .894 0l4.211-2.105a.5.5 0 0 1 .671.67'/%3E%3Cpath stroke='black' stroke-linecap='round' d='M14.5 17.5h4m-13 0h4'/%3E%3C/g%3E%3C/svg%3E");
+}

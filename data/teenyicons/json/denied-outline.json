@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 15,
+  "height": 15,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<path fill=\"none\" stroke=\"currentColor\" d=\"m2.5 2.5l10 10m-5 2a7 7 0 1 1 0-14a7 7 0 0 1 0 14Z\"/>"
+}

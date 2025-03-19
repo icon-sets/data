@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48' width='48' height='48'%3E%3Cg fill='none'%3E%3Cpath fill='%232F88FF' d='M18 24C18 17.3762 23.3762 12 30 12C36.6238 12 42 17.3762 42 24'/%3E%3Cpath stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='2' stroke-width='4' d='M18 24C18 17.3762 23.3762 12 30 12C36.6238 12 42 17.3762 42 24'/%3E%3Cpath stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='2' stroke-width='4' d='M12 4H4V36H12V4Z'/%3E%3Cpath stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='2' stroke-width='4' d='M12 24H44'/%3E%3Cpath stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='2' stroke-width='4' d='M18 24L20 28.5C22 33.5 21.9 38.9 20 44'/%3E%3Cpath stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='2' stroke-width='4' d='M40.9997 24L38.9997 28.5C36.9996 33.5 37.0896 38.9 38.9996 44'/%3E%3Cpath stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='2' stroke-width='4' d='M21.2197 32H37.7797'/%3E%3Cpath stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='2' stroke-width='4' d='M21.6895 40H37.3195'/%3E%3Cpath stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-miterlimit='2' stroke-width='4' d='M29.5 40V24'/%3E%3C/g%3E%3C/svg%3E");
+}

@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'%3E%3Cg fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' color='black'%3E%3Cpath d='M3 17.336V7.104c0-1.882 0-2.824.569-3.058c.568-.234 1.237.432 2.576 1.762l12.131 12.065c1.339 1.33 2.008 1.996 1.772 2.562c-.235.565-1.181.565-3.074.565H6.684c-1.737 0-2.605 0-3.144-.537c-.54-.536-.54-1.4-.54-3.127m17.916-4.499L17.48 9.42m3.436 3.417c.162-.16.042-1.484.03-2.324m-.03 2.324c-.162.16-.917.052-2.308-.019m-7.479-9.735L14.565 6.5m-3.436-3.417c-.162.16-.042 1.484-.03 2.324m.03-2.324c.162-.16.917-.052 2.308.019m7.473-.018L17.474 6.5m3.436-3.416c-.161-.162-1.493-.042-2.337-.03m2.337.03c.16.16.052.912-.019 2.295'/%3E%3Cellipse cx='16.088' cy='8.015' rx='1.383' ry='1.375'/%3E%3C/g%3E%3C/svg%3E");
+}

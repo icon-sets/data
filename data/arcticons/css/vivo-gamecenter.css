@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48' width='48' height='48'%3E%3Cpath fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' d='m41.846 15.218l-.047-.127c-.962-2.58-4.246-3.34-6.243-1.446l-25 23.713c-2.392 2.27-6.322.379-6.042-2.907l1.64-19.233a6.087 6.087 0 0 1 6.065-5.57H24'/%3E%3Cpath fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' d='M6.175 15.026c.978-2.56 4.244-3.302 6.232-1.416l25.036 23.748c2.393 2.27 6.323.379 6.043-2.907l-1.64-19.233a6.087 6.087 0 0 0-6.065-5.57H24'/%3E%3Ccircle cx='13.788' cy='24.657' r='2.758' fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' d='M34.534 27.415v-5.516m-2.758 2.758h5.516'/%3E%3C/svg%3E");
+}

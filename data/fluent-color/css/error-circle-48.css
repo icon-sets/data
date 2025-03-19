@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48' width='48' height='48'%3E%3Cg fill='none'%3E%3Cpath fill='url(%23fluentColorErrorCircle480)' d='M24 4c11.046 0 20 8.954 20 20s-8.954 20-20 20S4 35.046 4 24S12.954 4 24 4'/%3E%3Cpath fill='url(%23fluentColorErrorCircle481)' d='M24 13c.69 0 1.25.56 1.25 1.25v12.5a1.25 1.25 0 1 1-2.5 0v-12.5c0-.69.56-1.25 1.25-1.25m0 21a2 2 0 1 0 0-4a2 2 0 0 0 0 4'/%3E%3Cdefs%3E%3ClinearGradient id='fluentColorErrorCircle480' x1='10.25' x2='36.5' y1='-2.25' y2='47.75' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%23FFCD0F'/%3E%3Cstop offset='1' stop-color='%23FE8401'/%3E%3C/linearGradient%3E%3ClinearGradient id='fluentColorErrorCircle481' x1='18.667' x2='29.067' y1='13' y2='34.131' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%234A4A4A'/%3E%3Cstop offset='1' stop-color='%23212121'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/g%3E%3C/svg%3E");
+}

@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' width='32' height='32'%3E%3Cg fill='none'%3E%3Cpath fill='url(%23fluentColorAddCircle320)' d='M30 16c0 7.732-6.268 14-14 14S2 23.732 2 16S8.268 2 16 2s14 6.268 14 14'/%3E%3Cpath fill='url(%23fluentColorAddCircle321)' d='M15 10a1 1 0 1 1 2 0v5h5a1 1 0 1 1 0 2h-5v5a1 1 0 1 1-2 0v-5h-5a1 1 0 1 1 0-2h5z'/%3E%3Cdefs%3E%3ClinearGradient id='fluentColorAddCircle320' x1='3' x2='22.323' y1='7.25' y2='27.326' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%2352D17C'/%3E%3Cstop offset='1' stop-color='%2322918B'/%3E%3C/linearGradient%3E%3ClinearGradient id='fluentColorAddCircle321' x1='11.625' x2='15.921' y1='10.428' y2='25.592' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%23fff'/%3E%3Cstop offset='1' stop-color='%23E3FFD9'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/g%3E%3C/svg%3E");
+}

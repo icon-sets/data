@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 256,
+  "height": 256,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<circle cx=\"127\" cy=\"129\" r=\"81\" fill=\"currentColor\" fill-rule=\"evenodd\"/>"
+}

@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 26 26' width='26' height='26'%3E%3Cg fill='none'%3E%3Cdefs%3E%3Cmask id='pepiconsPopArrowUpRightCircleFilled0'%3E%3Cpath fill='%23fff' d='M0 0h26v26H0z'/%3E%3Cg fill='%23000' fill-rule='evenodd' clip-rule='evenodd'%3E%3Cpath d='M10.354 8.903a1 1 0 0 1 1.087-.906l5.185.472a1 1 0 1 1-.181 1.991l-5.186-.47a1 1 0 0 1-.905-1.087'/%3E%3Cpath d='M17.097 15.646a1 1 0 0 1-1.086-.905l-.471-5.186a1 1 0 1 1 1.991-.181l.472 5.185a1 1 0 0 1-.906 1.087'/%3E%3Cpath d='M15.828 10.172a1 1 0 0 1 0 1.414l-5.656 5.657a1 1 0 0 1-1.415-1.415l5.657-5.656a1 1 0 0 1 1.414 0'/%3E%3C/g%3E%3C/mask%3E%3C/defs%3E%3Ccircle cx='13' cy='13' r='13' fill='black' mask='url(%23pepiconsPopArrowUpRightCircleFilled0)'/%3E%3C/g%3E%3C/svg%3E");
+}

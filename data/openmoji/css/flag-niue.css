@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 72 72' width='72' height='72'%3E%3Cpath fill='%23fcea2b' d='M5 17h62v38H5z'/%3E%3Cpath fill='%231e50a0' d='M5 17h31v19H5z'/%3E%3Cpath fill='%23fff' d='M9.887 18H6v2.332L32.113 36H36v-2.332z'/%3E%3Cpath fill='%23fff' d='M36 20.332V18h-3.887L6 33.668V36h3.887z'/%3E%3Cpath fill='%23fff' d='M6 24h30v6H6z'/%3E%3Cpath fill='%23fff' d='M18 18h6v18h-6z'/%3E%3Cpath fill='%23d22f27' d='M20 18h2v18h-2z'/%3E%3Cpath fill='%23d22f27' d='M6 26h30v2H6zm30 7.668L29.887 30H26l10 6zM36 18h-3.887L24 22.868V24h2zM6 20.332L12.113 24H16L6 18zM6 36h3.887L18 31.132V30h-2z'/%3E%3Ccircle cx='20.5' cy='26.5' r='2.5' fill='%231e50a0'/%3E%3Cpath fill='%23fcea2b' stroke='%23fcea2b' stroke-linecap='round' stroke-linejoin='round' d='m19.531 28l.995-3l.859 2.954L19 26.174l3-.074z'/%3E%3Ccircle cx='27' cy='26.5' r='1' fill='%23fcea2b'/%3E%3Ccircle cx='14' cy='26.5' r='1' fill='%23fcea2b'/%3E%3Ccircle cx='20.5' cy='32' r='1' fill='%23fcea2b'/%3E%3Ccircle cx='20.5' cy='21' r='1' fill='%23fcea2b'/%3E%3Cpath fill='none' stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M5 17h62v38H5z'/%3E%3C/svg%3E");
+}

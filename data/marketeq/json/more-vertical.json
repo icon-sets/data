@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 50,
+  "height": 50,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<path fill=\"none\" stroke=\"#344054\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"3\" d=\"M25 12.396v.208m0 12.292v.208m0 12.292v.208\"/>"
+}

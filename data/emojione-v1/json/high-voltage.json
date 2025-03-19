@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 64,
+  "height": 64,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<path fill=\"#fbb11c\" d=\"M32 29L42 1L12 35h20L22 63l30-34\"/>"
+}

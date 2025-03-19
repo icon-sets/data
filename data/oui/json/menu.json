@@ -1,0 +1,11 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 16,
+  "height": 16,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<path fill=\"none\" d=\"M0 2h16v2H0zm0 5h16v2H0zm16 5H0v2h16z\"/>",
+  "hidden": true
+}

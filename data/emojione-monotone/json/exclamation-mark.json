@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 64,
+  "height": 64,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<path fill=\"currentColor\" d=\"M36.989 42.439H27.01L23 2h18z\"/><ellipse cx=\"31.999\" cy=\"54.354\" fill=\"currentColor\" rx=\"7.663\" ry=\"7.646\"/>"
+}

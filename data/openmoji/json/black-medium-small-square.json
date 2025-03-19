@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 72,
+  "height": 72,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<path d=\"M51.736 20.306H20.264v31.471h31.472z\"/><path fill=\"#3F3F3F\" d=\"M51.736 20.306H20.264v31.471h31.472z\"/><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M51.736 20.306H20.264v31.471h31.472z\"/>"
+}

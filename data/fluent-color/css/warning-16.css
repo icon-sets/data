@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' width='16' height='16'%3E%3Cg fill='none'%3E%3Cpath fill='url(%23fluentColorWarning160)' d='M9.092 2.638a1.25 1.25 0 0 0-2.182 0L2.157 11.14A1.25 1.25 0 0 0 3.247 13h9.504a1.25 1.25 0 0 0 1.091-1.86z'/%3E%3Cpath fill='url(%23fluentColorWarning161)' d='M8.75 10.25a.75.75 0 1 1-1.5 0a.75.75 0 0 1 1.5 0M7.5 8V5.5a.5.5 0 0 1 1 0V8a.5.5 0 0 1-1 0'/%3E%3Cdefs%3E%3ClinearGradient id='fluentColorWarning160' x1='3.872' x2='10.725' y1='.279' y2='14.525' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%23FFCD0F'/%3E%3Cstop offset='1' stop-color='%23FE8401'/%3E%3C/linearGradient%3E%3ClinearGradient id='fluentColorWarning161' x1='6' x2='8.466' y1='5' y2='11.575' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%234A4A4A'/%3E%3Cstop offset='1' stop-color='%23212121'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/g%3E%3C/svg%3E");
+}

@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 464,
+  "height": 408,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<path fill=\"currentColor\" d=\"m140 35l73 128L73 408L0 280zm43 245h280l-73 128H110zm268-21H305L158 3h146z\"/>"
+}

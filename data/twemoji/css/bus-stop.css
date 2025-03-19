@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 36 36' width='36' height='36'%3E%3Cpath fill='%236D6E71' d='M14 7h2v29h-2z'/%3E%3Cpath fill='%236D6E71' d='M15 19h3v2h-3zm0-6h3v2h-3z'/%3E%3Cpath fill='%23BCBEC0' d='M29 24a1 1 0 0 1-1 1h-9a1 1 0 0 1-1-1V10a1 1 0 0 1 1-1h9a1 1 0 0 1 1 1z'/%3E%3Cpath fill='%23BE1931' d='M29 13v-3a1 1 0 0 0-1-1h-9a1 1 0 0 0-1 1v3z'/%3E%3Cpath fill='%236D6E71' d='M21 34H9l-1 1v1h14v-1zm-2-2h-8l-1 1v1h10v-1z'/%3E%3Ccircle cx='15' cy='4' r='4' fill='%23BE1931'/%3E%3Cpath fill='%23808285' d='M20 13h3v3h-3z'/%3E%3Cpath fill='%23F4900C' d='M20 17h3v3h-3zm0 4h3v3h-3z'/%3E%3Cpath fill='%23808285' d='M24 13h3v3h-3zm0 4h3v3h-3z'/%3E%3Cpath fill='%23F4900C' d='M24 21h3v3h-3z'/%3E%3Cpath fill='%23DD2E44' d='M13 2h4v4h-4zm7 8h7v2h-7z'/%3E%3C/svg%3E");
+}

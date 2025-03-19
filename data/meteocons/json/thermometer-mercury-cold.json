@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 512,
+  "height": 512,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<defs><symbol id=\"meteoconsThermometerMercuryCold0\" viewBox=\"0 0 72 168\"><circle cx=\"36\" cy=\"132\" r=\"36\" fill=\"#2885c7\"/><path fill=\"none\" stroke=\"#2885c7\" stroke-linecap=\"round\" stroke-miterlimit=\"10\" stroke-width=\"24\" d=\"M36 12v120\"/></symbol></defs><use width=\"72\" height=\"168\" href=\"#meteoconsThermometerMercuryCold0\" transform=\"translate(220 204)\"/>"
+}

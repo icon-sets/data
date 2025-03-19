@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'%3E%3Cg fill='none'%3E%3Cpath fill='%23348AA7' d='M8 9.75v-4.5L4 7.5z'/%3E%3Cpath fill='%2355CF98' d='M12 7.5L8 9.75v4.5l4 2.25z'/%3E%3Cpath fill='%231A6882' d='m4 7.5l4 2.25v4.5L4 16.5z'/%3E%3Cpath fill='%2376E8B5' d='m8 5.25l4 2.25l-4 2.25z'/%3E%3Cpath fill='%2312556B' d='m4 16.5l4-2.25l4 2.25V21z'/%3E%3Cpath fill='%23BCE784' d='M16 5.25L12 7.5L8 5.25L12 3z'/%3E%3Cpath fill='%2348B081' d='m12 7.5l4 2.25v4.5l-4 2.25z'/%3E%3Cpath fill='%231A6882' d='m20 7.5l-4 2.25v4.5l4 2.25z'/%3E%3Cpath fill='%2357C795' d='M16 5.25L12 7.5l4 2.25z'/%3E%3Cpath fill='%230D3E4F' d='m20 16.5l-4-2.25l-4 2.25V21z'/%3E%3Cpath fill='%23348AA7' d='M16 9.75v-4.5l4 2.25z'/%3E%3C/g%3E%3C/svg%3E");
+}

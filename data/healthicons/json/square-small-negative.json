@@ -1,0 +1,11 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 48,
+  "height": 48,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<g fill=\"none\"><g clip-path=\"url(#healthiconsSquareSmallNegative0)\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M0 0h48v48H0zm13 12a1 1 0 0 0-1 1v22a1 1 0 0 0 1 1h22a1 1 0 0 0 1-1V13a1 1 0 0 0-1-1z\" clip-rule=\"evenodd\"/></g><defs><clipPath id=\"healthiconsSquareSmallNegative0\"><path d=\"M0 0h48v48H0z\"/></clipPath></defs></g>",
+  "hidden": true
+}

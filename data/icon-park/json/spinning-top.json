@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 48,
+  "height": 48,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<g fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"2\" stroke-width=\"4\"><path d=\"M24 44V41\"/><path fill=\"#2F88FF\" d=\"M44 20L24 41L4 20H44Z\"/><path d=\"M44 12H4V20H44V12Z\"/><path d=\"M24 12V4\"/></g>"
+}

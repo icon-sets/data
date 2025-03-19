@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 2048,
+  "height": 2048,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<path fill=\"currentColor\" d=\"M2048 896v128h-677l210 211l-90 90l-365-365l365-365l90 90l-210 211zM467 685l90-90l365 365l-365 365l-90-90l210-211H0V896h677z\"/>"
+}

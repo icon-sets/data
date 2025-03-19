@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 1000,
+  "height": 1000,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<path fill=\"currentColor\" d=\"M0 791.667h694.444L1000 208.333H333.334z\"/>"
+}

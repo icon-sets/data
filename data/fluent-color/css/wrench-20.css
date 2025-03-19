@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' width='20' height='20'%3E%3Cg fill='none'%3E%3Cpath fill='url(%23fluentColorWrench200)' d='M13.5 2a4.5 4.5 0 0 0-4.418 5.36l-6.425 6.658a2.357 2.357 0 0 0 3.374 3.293l6.364-6.448Q12.927 11 13.5 11a4.5 4.5 0 0 0 4.386-5.51a.5.5 0 0 0-.841-.242L14.5 7.793L12.207 5.5l2.545-2.545a.5.5 0 0 0-.241-.84A4.5 4.5 0 0 0 13.5 2'/%3E%3Cdefs%3E%3ClinearGradient id='fluentColorWrench200' x1='8.5' x2='11.356' y1='3' y2='18.576' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%232BDABE'/%3E%3Cstop offset='1' stop-color='%230067BF'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/g%3E%3C/svg%3E");
+}

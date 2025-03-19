@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 0.9em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 256 286' width='256' height='286'%3E%3Cdefs%3E%3ClinearGradient id='logosDockbit0' x1='77.041%25' x2='22.841%25' y1='13.184%25' y2='87.539%25'%3E%3Cstop offset='0%25' stop-color='%237236DC'/%3E%3Cstop offset='100%25' stop-color='%233F37AE'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath fill='url(%23logosDockbit0)' d='M240.481 60.13L143.525 4.16a31.05 31.05 0 0 0-31.046 0L15.523 60.13A31.06 31.06 0 0 0 0 87.018v111.955c0 11.09 5.92 21.338 15.523 26.883l96.956 55.984a31.05 31.05 0 0 0 31.046 0l96.956-55.984A31.04 31.04 0 0 0 256 198.973V87.018a31.06 31.06 0 0 0-15.519-26.888m-9.315 135.918a9.32 9.32 0 0 1-4.658 8.07l-22.684 13.098a9.32 9.32 0 0 1-9.315 0l-22.688-13.098a9.32 9.32 0 0 1-4.654-8.07v-26.196c0-3.329 1.775-6.4 4.654-8.066l22.688-13.098a9.32 9.32 0 0 1 9.315 0l22.684 13.098a9.31 9.31 0 0 1 4.658 8.066z'/%3E%3C/svg%3E");
+}

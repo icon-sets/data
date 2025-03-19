@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 36 36' width='36' height='36'%3E%3Cpath fill='black' d='M28 22h2v8h-8v-2h-2v4h12V20h-4z' class='clr-i-outline clr-i-outline-path-1'/%3E%3Cpath fill='black' d='M14 30H6v-8h2v-2H4v12h12v-4h-2z' class='clr-i-outline clr-i-outline-path-2'/%3E%3Cpath fill='black' d='M8 14H6V6h8v2h2V4H4v12h4z' class='clr-i-outline clr-i-outline-path-3'/%3E%3Cpath fill='black' d='M20 4v4h2V6h8v8h-2v2h4V4z' class='clr-i-outline clr-i-outline-path-4'/%3E%3Cpath fill='black' d='M11 11h6v6h-6z' class='clr-i-outline clr-i-outline-path-5'/%3E%3Cpath fill='black' d='M19 11h6v6h-6z' class='clr-i-outline clr-i-outline-path-6'/%3E%3Cpath fill='black' d='M11 19h6v6h-6z' class='clr-i-outline clr-i-outline-path-7'/%3E%3Cpath fill='black' d='M19 19h6v6h-6z' class='clr-i-outline clr-i-outline-path-8'/%3E%3Cpath fill='none' d='M0 0h36v36H0z'/%3E%3C/svg%3E");
+}

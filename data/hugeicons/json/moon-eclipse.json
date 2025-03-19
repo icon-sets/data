@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 24,
+  "height": 24,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" color=\"currentColor\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M10 2.2c4.565.927 8 4.962 8 9.8s-3.435 8.874-8 9.8\"/></g>"
+}

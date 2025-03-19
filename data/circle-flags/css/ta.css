@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' width='512' height='512'%3E%3Cmask id='circleFlagsTa0'%3E%3Ccircle cx='256' cy='256' r='256' fill='%23fff'/%3E%3C/mask%3E%3Cg mask='url(%23circleFlagsTa0)'%3E%3Cpath fill='%230052b4' d='M256 0h256v512H0V256Z'/%3E%3Cpath fill='%23eee' d='M0 0v32l32 32L0 96v160h32l32-32l32 32h32v-83l83 83h45l-8-16l8-15v-14l-83-83h83V96l-32-32l32-32V0H96L64 32L32 0Z'/%3E%3Cpath fill='%23d80027' d='M32 0v32H0v64h32v160h64V96h160V32H96V0Zm96 128l128 128v-31l-97-97z'/%3E%3Cpath fill='%23eee' d='M288 288v32h32v8h96v-8h32v-32h-32v8h-96v-8zm32-144l48-80l48 80z'/%3E%3Ccircle cx='368' cy='144' r='48' fill='%23338af3'/%3E%3Cpath fill='%23338af3' d='M320 144v48l48 32l48-32v-48z'/%3E%3Crect width='32' height='128' x='288' y='128' fill='%23ff9811' rx='16' ry='16'/%3E%3Crect width='32' height='128' x='416' y='128' fill='%23ff9811' rx='16' ry='16'/%3E%3Cpath fill='%23eee' d='M320 192v29c0 36 48 48 48 48s48-12 48-48v-29zm48-48l-16 48h32z'/%3E%3Cpath fill='%23338af3' d='m352 192l16 48l16-48z'/%3E%3C/g%3E%3C/svg%3E");
+}

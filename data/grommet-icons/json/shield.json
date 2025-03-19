@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 24,
+  "height": 24,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" d=\"M12 22S3 18 3 5l9-3l9 3c0 13-9 17-9 17ZM4 11h16m-8-9v20\"/>"
+}

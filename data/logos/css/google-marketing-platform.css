@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 256 256' width='256' height='256'%3E%3Cdefs%3E%3ClinearGradient id='logosGoogleMarketingPlatform0' x1='0%25' x2='99.999%25' y1='50%25' y2='50%25'%3E%3Cstop offset='0%25' stop-color='%23246FDB'/%3E%3Cstop offset='5.52%25' stop-color='%232973DF'/%3E%3Cstop offset='27.81%25' stop-color='%23377DEB'/%3E%3Cstop offset='54.91%25' stop-color='%233F83F2'/%3E%3Cstop offset='100%25' stop-color='%234285F4'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath fill='%23EA4335' d='M173.2 82.8c25 25 25 65.5 0 90.5c-12.5 12.5-12.5 32.8 0 45.2c12.5 12.5 32.8 12.5 45.3 0c50-50 50-131 0-181z'/%3E%3Cpath fill='url(%23logosGoogleMarketingPlatform0)' d='M218.4 37.5c-50-50-130.9-50-180.9 0s-50 131 0 181l45.3-45.2c-25-25-25-65.5 0-90.5s65.5-25 90.5 0c12.5 12.5 32.8 12.5 45.3 0c12.3-12.5 12.3-32.8-.2-45.3'/%3E%3Cpath fill='%23FBBC04' d='m218.4 218.5l-45.3-45.2c-25 25-65.5 25-90.5 0l-45.3 45.2c50.2 50 131.1 50 181.1 0'/%3E%3Cpath fill='%23EA4335' d='M173.2 173.3c12.5-12.5 32.7-12.5 45.2 0s12.5 32.8 0 45.3s-32.7 12.5-45.2 0s-12.5-32.8 0-45.3'/%3E%3Cpath fill='%2334A853' d='M37.5 173.3c12.5-12.5 32.7-12.5 45.2 0s12.5 32.8 0 45.3s-32.7 12.5-45.2 0s-12.5-32.8 0-45.3'/%3E%3C/svg%3E");
+}

@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 21,
+  "height": 21,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m13.5 14.5l4-4l-4-4m4 4h-11m-3-7v14\"/>"
+}

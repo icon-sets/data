@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 26 26' width='26' height='26'%3E%3Cg fill='none'%3E%3Cdefs%3E%3Cmask id='pepiconsPopHammerSledgeCircleFilled0'%3E%3Cpath fill='%23fff' d='M0 0h26v26H0z'/%3E%3Cg fill='%23000' fill-rule='evenodd' clip-rule='evenodd'%3E%3Cpath d='M13.033 3.555a2 2 0 0 1 1.225.43l6.863 5.416a2 2 0 0 1 .703 1.091l.19.774a2 2 0 0 1-.371 1.717l-2.492 3.158a2 2 0 0 1-1.584.76l-.796-.005a2 2 0 0 1-1.225-.43L8.683 11.05a2 2 0 0 1-.703-1.09l-.19-.774a2 2 0 0 1 .371-1.718l2.492-3.157a2 2 0 0 1 1.584-.761zm6.85 7.416l-6.864-5.416l-.796-.005L9.73 8.707l.19.773l6.864 5.416l.796.006l2.492-3.158z'/%3E%3Cpath d='m12.028 13.061l-5.262 6.668l.785.62l5.262-6.669l1.57 1.24l-5.262 6.667a2 2 0 0 1-2.809.331l-.785-.62a2 2 0 0 1-.33-2.808l5.26-6.668zm4.491-5.691l.93-1.178l.784.62l-.93 1.177l1.571 1.239l.93-1.178a2 2 0 0 0-.332-2.809l-.785-.619a2 2 0 0 0-2.809.331l-.93 1.178z'/%3E%3C/g%3E%3C/mask%3E%3C/defs%3E%3Ccircle cx='13' cy='13' r='13' fill='black' mask='url(%23pepiconsPopHammerSledgeCircleFilled0)'/%3E%3C/g%3E%3C/svg%3E");
+}

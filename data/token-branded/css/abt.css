@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'%3E%3Cg fill='none'%3E%3Cpath fill='url(%23tokenBrandedAbt0)' fill-rule='evenodd' d='m12 3l8 4.5v9L12 21l-8-4.5v-9zm7.25 4.64l-7-3.936v7.874zm.25.423L12.5 12l7 3.937zm-.25 8.296l-7-3.937v7.875zm-7.5 3.938l-7-3.938l7-3.937zm0-8.72l-7-3.936l7-3.937zM4.5 8.064l7 3.937l-7 3.937z' clip-rule='evenodd'/%3E%3Cpath fill='url(%23tokenBrandedAbt1)' d='m12 7.152l4.216 7.115L12 16.639l-4.216-2.371zm0 .975l-3.533 5.962L12 16.077l3.533-1.988z'/%3E%3Cdefs%3E%3ClinearGradient id='tokenBrandedAbt0' x1='4.001' x2='19.999' y1='12' y2='12' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%2306EFA0'/%3E%3Cstop offset='1' stop-color='%2301FAFC'/%3E%3C/linearGradient%3E%3ClinearGradient id='tokenBrandedAbt1' x1='4' x2='19.999' y1='11.999' y2='11.999' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%2306EFA0'/%3E%3Cstop offset='1' stop-color='%2301FAFC'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/g%3E%3C/svg%3E");
+}

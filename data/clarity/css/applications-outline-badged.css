@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 36 36' width='36' height='36'%3E%3Cpath fill='black' d='M8 8H4v2h6V4H8z' class='clr-i-outline--badged clr-i-outline-path-1--badged'/%3E%3Cpath fill='black' d='M19 8h-4v2h6V4h-2z' class='clr-i-outline--badged clr-i-outline-path-2--badged'/%3E%3Cpath fill='black' d='M8 19H4v2h6v-6H8z' class='clr-i-outline--badged clr-i-outline-path-3--badged'/%3E%3Cpath fill='black' d='M19 19h-4v2h6v-6h-2z' class='clr-i-outline--badged clr-i-outline-path-4--badged'/%3E%3Cpath fill='black' d='M30 19h-4v2h6v-6h-2z' class='clr-i-outline--badged clr-i-outline-path-5--badged'/%3E%3Cpath fill='black' d='M8 30H4v2h6v-6H8z' class='clr-i-outline--badged clr-i-outline-path-6--badged'/%3E%3Cpath fill='black' d='M19 30h-4v2h6v-6h-2z' class='clr-i-outline--badged clr-i-outline-path-7--badged'/%3E%3Cpath fill='black' d='M30 30h-4v2h6v-6h-2z' class='clr-i-outline--badged clr-i-outline-path-8--badged'/%3E%3Ccircle cx='30' cy='6' r='5' fill='black' class='clr-i-outline--badged clr-i-outline-path-9--badged clr-i-badge'/%3E%3Cpath fill='none' d='M0 0h36v36H0z'/%3E%3C/svg%3E");
+}

@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'%3E%3Cg fill='black'%3E%3Cpath d='M14 4a2 2 0 1 1-4 0a2 2 0 0 1 4 0M9 17v4a1 1 0 1 0 2 0v-4zm4 0v4a1 1 0 1 0 2 0v-4z'/%3E%3Cpath fill-rule='evenodd' d='M5 8a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1zm1.5 6.5v-6h4.75v.913c-.573.06-1.136.191-1.585.416a.75.75 0 1 0 .67 1.342c.219-.11.539-.197.915-.247v.879a5.2 5.2 0 0 0-2.166.823a.75.75 0 0 0 .832 1.248a3.7 3.7 0 0 1 1.334-.55V14.5zm6.25-1.176V14.5h4.75v-6h-4.75v.913c.573.06 1.136.191 1.585.416a.75.75 0 1 1-.67 1.342c-.219-.11-.539-.197-.915-.247v.879a5.2 5.2 0 0 1 2.166.823a.75.75 0 1 1-.832 1.248a3.7 3.7 0 0 0-1.334-.55' clip-rule='evenodd'/%3E%3C/g%3E%3C/svg%3E");
+}

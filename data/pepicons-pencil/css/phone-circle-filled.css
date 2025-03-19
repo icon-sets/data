@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 26 26' width='26' height='26'%3E%3Cg fill='none'%3E%3Cdefs%3E%3Cmask id='pepiconsPencilPhoneCircleFilled0'%3E%3Cpath fill='%23fff' d='M0 0h26v26H0z'/%3E%3Cpath fill='%23000' fill-rule='evenodd' d='m15.874 12.546l-.91.911a32 32 0 0 1-3.535-3.537l.91-.91a2.5 2.5 0 0 0 0-3.535L10.925 4.06a2.5 2.5 0 0 0-3.536 0L4.583 6.866a.5.5 0 0 0-.114.529c2.324 6.226 6.661 10.593 13.018 13.02a.5.5 0 0 0 .531-.114l2.806-2.805a2.5 2.5 0 0 0 0-3.536l-1.414-1.414a2.5 2.5 0 0 0-3.536 0m4.243 2.121a1.5 1.5 0 0 1 0 2.122l-2.575 2.575c-5.821-2.306-9.811-6.32-12.023-12.02l2.577-2.576a1.5 1.5 0 0 1 2.122 0l1.414 1.414a1.5 1.5 0 0 1 0 2.121l-1.234 1.234a.5.5 0 0 0-.032.673a32.7 32.7 0 0 0 4.307 4.31a.5.5 0 0 0 .673-.031l1.235-1.236a1.5 1.5 0 0 1 2.122 0z' clip-rule='evenodd'/%3E%3C/mask%3E%3C/defs%3E%3Ccircle cx='13' cy='13' r='13' fill='black' mask='url(%23pepiconsPencilPhoneCircleFilled0)'/%3E%3C/g%3E%3C/svg%3E");
+}

@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64' width='64' height='64'%3E%3Cpath fill='%23333' d='M2 4v56l30-28z'/%3E%3Cpath fill='%23697277' d='M62 4H2l30 28z'/%3E%3Cpath fill='%23333' d='M2 60h60L32 32z'/%3E%3Cpath fill='%23697277' d='m32 32l30 28V4z'/%3E%3Cpath fill='%2352595e' d='M5 7h54v50H5z'/%3E%3Cpath fill='%23697277' d='M9 11v42l23-21z'/%3E%3Cpath fill='%23333' d='M55 11H9l23 21z'/%3E%3Cpath fill='%23697277' d='M9 53h46L32 32z'/%3E%3Cpath fill='%23333' d='m32 32l23 21V11z'/%3E%3Cpath fill='%2342ade2' d='M16 18h32v18H16z'/%3E%3Cpath fill='%23fed0ac' d='M16 34.7h32V46H16z'/%3E%3Ccircle cx='40.5' cy='24.5' r='3.8' fill='%23ffce31'/%3E%3Cpath fill='%2389664c' d='M21.3 37.9L32 41V28.4z'/%3E%3Cpath fill='%23d3976e' d='M42.7 37.9L32 41V28.4z'/%3E%3Cpath fill='%23fff' d='M11 13v38h42V13zm36 32H17V19h30z'/%3E%3Cpath fill='%23bfb3a4' d='M12 14v36h40V14zm36.2 32.2H15.8V17.8h32.3v28.4z'/%3E%3C/svg%3E");
+}

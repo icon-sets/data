@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' width='512' height='512'%3E%3Cpath fill='%231eb53a' d='M0 341.3h512V512H0z'/%3E%3Cpath fill='%230099b5' d='M0 0h512v170.7H0z'/%3E%3Cpath fill='%23ce1126' d='M0 163.8h512v184.4H0z'/%3E%3Cpath fill='%23fff' d='M0 174h512v164H0z'/%3E%3Ccircle cx='143.4' cy='81.9' r='61.4' fill='%23fff'/%3E%3Ccircle cx='163.8' cy='81.9' r='61.4' fill='%230099b5'/%3E%3Cg fill='%23fff' transform='translate(278.5 131)scale(2.048)'%3E%3Cg id='flagUz1x10'%3E%3Cg id='flagUz1x11'%3E%3Cg id='flagUz1x12'%3E%3Cg id='flagUz1x13'%3E%3Cpath id='flagUz1x14' d='M0-6L-1.9-.3L1 .7'/%3E%3Cuse width='100%25' height='100%25' href='%23flagUz1x14' transform='scale(-1 1)'/%3E%3C/g%3E%3Cuse width='100%25' height='100%25' href='%23flagUz1x13' transform='rotate(72)'/%3E%3C/g%3E%3Cuse width='100%25' height='100%25' href='%23flagUz1x13' transform='rotate(-72)'/%3E%3Cuse width='100%25' height='100%25' href='%23flagUz1x12' transform='rotate(144)'/%3E%3C/g%3E%3Cuse width='100%25' height='100%25' y='-24' href='%23flagUz1x11'/%3E%3Cuse width='100%25' height='100%25' y='-48' href='%23flagUz1x11'/%3E%3C/g%3E%3Cuse width='100%25' height='100%25' x='24' href='%23flagUz1x10'/%3E%3Cuse width='100%25' height='100%25' x='48' href='%23flagUz1x10'/%3E%3Cuse width='100%25' height='100%25' x='-48' href='%23flagUz1x11'/%3E%3Cuse width='100%25' height='100%25' x='-24' href='%23flagUz1x11'/%3E%3Cuse width='100%25' height='100%25' x='-24' y='-24' href='%23flagUz1x11'/%3E%3C/g%3E%3C/svg%3E");
+}

@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 26 26' width='26' height='26'%3E%3Cg fill='none'%3E%3Cdefs%3E%3Cmask id='pepiconsPencilMusicNoteSingleCircleFilled0'%3E%3Cpath fill='%23fff' d='M0 0h26v26H0z'/%3E%3Cg fill='%23000'%3E%3Cpath fill-rule='evenodd' d='M19.75 10.804c0-1.542-2.146-3.669-6.469-6.606a.5.5 0 0 0-.781.413v3.684a.5.5 0 0 0 .343.475c1.474.487 2.591 1.263 3.365 2.328c.734 1.01.868 1.858.46 2.617c-.236.44.25.917.686.672c1.575-.884 2.396-2.09 2.396-3.583M13.5 7.941V5.564c3.492 2.45 5.25 4.259 5.25 5.24c0 .746-.278 1.396-.855 1.96c-.02-.724-.316-1.48-.878-2.254C16.177 9.355 15 8.498 13.5 7.94' clip-rule='evenodd'/%3E%3Cpath d='M12.5 7.5a.5.5 0 0 1 1 0V18a.5.5 0 0 1-1 0z'/%3E%3Cpath fill-rule='evenodd' d='M7.5 18c0 1.408 1.365 2.5 3 2.5s3-1.092 3-2.5s-1.365-2.5-3-2.5s-3 1.092-3 2.5m5 0c0 .8-.874 1.5-2 1.5s-2-.7-2-1.5s.874-1.5 2-1.5s2 .7 2 1.5' clip-rule='evenodd'/%3E%3C/g%3E%3C/mask%3E%3C/defs%3E%3Ccircle cx='13' cy='13' r='13' fill='black' mask='url(%23pepiconsPencilMusicNoteSingleCircleFilled0)'/%3E%3C/g%3E%3C/svg%3E");
+}

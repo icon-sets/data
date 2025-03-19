@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 16,
+  "height": 16,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<circle cx=\"8\" cy=\"8\" r=\"7.5\" fill=\"none\" stroke=\"currentColor\"/>"
+}

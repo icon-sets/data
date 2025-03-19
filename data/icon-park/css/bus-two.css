@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48' width='48' height='48'%3E%3Cg fill='none' stroke-linecap='round' stroke-linejoin='round' stroke-width='4'%3E%3Cpath fill='%232F88FF' fill-rule='evenodd' stroke='%23000' d='M4 6C4 4.89543 4.89543 4 6 4H42C43.1046 4 44 4.89543 44 6V38C44 39.1046 43.1046 40 42 40H6C4.89543 40 4 39.1046 4 38V6Z' clip-rule='evenodd'/%3E%3Cpath stroke='%23000' d='M16 40H8V44H16V40Z'/%3E%3Cpath stroke='%23000' d='M40 40H32V44H40V40Z'/%3E%3Cpath stroke='%23fff' d='M21 16H27'/%3E%3Cpath stroke='%23fff' d='M10 34H12'/%3E%3Cpath stroke='%23fff' d='M19 34H29'/%3E%3Cpath stroke='%23fff' d='M4 25H44'/%3E%3Cpath stroke='%23fff' d='M4 10H44'/%3E%3Cpath stroke='%23fff' d='M36 34H38'/%3E%3Cpath stroke='%23000' d='M4 6V14'/%3E%3Cpath stroke='%23000' d='M44 6V14'/%3E%3Cpath stroke='%23000' d='M4 21V29'/%3E%3Cpath stroke='%23000' d='M44 21V29'/%3E%3C/g%3E%3C/svg%3E");
+}

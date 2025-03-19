@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48' width='48' height='48'%3E%3Crect width='37' height='37' x='5.5' y='5.5' fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' rx='4' ry='4'/%3E%3Cpath fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' d='m15.318 17.5l-2.925 9l-2.925-9m14.606 1.125v6.75c0 .675.45 1.125 1.125 1.125h.337m-2.7-6.075h2.475m6.303 3.825a2.257 2.257 0 0 1-2.25 2.25h0a2.257 2.257 0 0 1-2.25-2.25v-1.462a2.257 2.257 0 0 1 2.25-2.25h0a2.257 2.257 0 0 1 2.25 2.25m0 3.712v-6.075m6.918 6.075v-3.712c0-1.238-1.013-2.25-2.25-2.25s-2.25 1.012-2.25 2.25m0 3.712v-6.075M20.573 24.25a2.257 2.257 0 0 1-2.25 2.25h0a2.257 2.257 0 0 1-2.25-2.25v-1.462a2.257 2.257 0 0 1 2.25-2.25h0a2.257 2.257 0 0 1 2.25 2.25m0 3.712v-6.075'/%3E%3C/svg%3E");
+}

@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'%3E%3Cg fill='none'%3E%3Cpath fill='url(%23tokenBrandedNav0)' fill-rule='evenodd' d='M7.56 4.08a1.2 1.2 0 0 0-2.16.72v6H4.2a1.2 1.2 0 1 0 0 2.4h1.2v6a1.2 1.2 0 1 0 2.4 0v-6h3.6l5.04 6.72a1.199 1.199 0 0 0 2.16-.72v-6h1.2a1.2 1.2 0 1 0 0-2.4h-1.2v-6a1.2 1.2 0 0 0-2.4 0v6h-3.6zm6.84 9.12l1.8 2.4v-2.4zm-4.8-2.4L7.8 8.4v2.4z' clip-rule='evenodd'/%3E%3Cdefs%3E%3ClinearGradient id='tokenBrandedNav0' x1='21' x2='4.08' y1='3.6' y2='21.568' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%230B88F6'/%3E%3Cstop offset='.456' stop-color='%237152D7'/%3E%3Cstop offset='1' stop-color='%23DD1EBA'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/g%3E%3C/svg%3E");
+}

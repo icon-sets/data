@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 16,
+  "height": 16,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<circle cx=\"8\" cy=\"8\" r=\"6.5\" fill=\"none\" stroke=\"#cad3f5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8\" cy=\"5\" r=\"1.5\" fill=\"none\" stroke=\"#cad3f5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8\" cy=\"11\" r=\"1.5\" fill=\"none\" stroke=\"#cad3f5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+}

@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48' width='48' height='48'%3E%3Cdefs%3E%3Cpath id='arcticonsEmojiBroccoli0' fill='none' stroke='black' d='M17.144 31.062q-.465.053-.946.053c-4.534 0-8.215-3.657-8.215-8.168a8.15 8.15 0 0 1 3.359-6.59c.651-.476 1.07-1.192 1.267-1.975C13.893 9.278 18.538 5.5 24.064 5.5c5.61 0 10.317 3.903 11.508 9.133c.173.759.62 1.41 1.24 1.883a8.1 8.1 0 0 1 3.205 6.46c0 4.496-3.666 8.14-8.187 8.14q-.178 0-.355-.008'/%3E%3Cpath id='arcticonsEmojiBroccoli1' fill='none' stroke='black' d='M31.474 31.115s-.15 0-.405-.02h-.029m-13.56-.058c-.57.078-.955.078-.955.078'/%3E%3C/defs%3E%3Cuse href='%23arcticonsEmojiBroccoli0' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cuse href='%23arcticonsEmojiBroccoli0' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cuse href='%23arcticonsEmojiBroccoli1' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' d='M16.525 31.115s4.272 0 5.695-2.846'/%3E%3Cpath fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' d='M31.04 31.094s-2.413 3.58-2.413 5.714v4.24c0 .802-.65 1.452-1.453 1.452h-5.636c-.803 0-1.453-.65-1.453-1.453v-4.24c0-2.134-2.05-5.89-2.05-5.89'/%3E%3Cpath fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' d='M31.474 31.115s-4.27 0-5.695-2.846'/%3E%3Cuse href='%23arcticonsEmojiBroccoli0' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cuse href='%23arcticonsEmojiBroccoli1' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+}

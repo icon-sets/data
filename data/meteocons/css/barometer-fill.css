@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' width='512' height='512'%3E%3Cdefs%3E%3ClinearGradient id='meteoconsBarometerFill0' x1='184' x2='328' y1='131.3' y2='380.7' gradientUnits='userSpaceOnUse'%3E%3Cstop offset='0' stop-color='%236b7280'/%3E%3Cstop offset='.5' stop-color='%236b7280'/%3E%3Cstop offset='1' stop-color='%23374151'/%3E%3C/linearGradient%3E%3C/defs%3E%3Ccircle cx='256' cy='256' r='144' fill='url(%23meteoconsBarometerFill0)' stroke='%23e5e7eb' stroke-miterlimit='10' stroke-width='12'/%3E%3Cpath fill='none' stroke='%239ca3af' stroke-linecap='round' stroke-linejoin='round' stroke-width='6' d='M256 200v-48m108 104h-48m-116 0h-48m180-68l-24 24m-104 0l-24-24m128 112l24 24m-152 0l24-24'/%3E%3Ccircle cx='256' cy='256' r='24' fill='%23ef4444'/%3E%3Cpath fill='none' stroke='%23ef4444' stroke-linecap='round' stroke-miterlimit='10' stroke-width='12' d='M256 284V164'%3E%3CanimateTransform attributeName='transform' calcMode='spline' dur='6s' keySplines='.42, 0, .58, 1; .42, 0, .58, 1; .42, 0, .58, 1; .42, 0, .58, 1; .42, 0, .58, 1; .42, 0, .58, 1' keyTimes='0; .17; .25; .42; .5; .67; 1' repeatCount='indefinite' type='rotate' values='-54 256 256; -15 256 256; -36 256 256; 36 256 256; 10 256 256; 115 256 256; -54 256 256'/%3E%3C/path%3E%3C/svg%3E");
+}

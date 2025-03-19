@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' width='32' height='32'%3E%3Cg fill='none'%3E%3Crect width='26' height='26' x='3' y='3' fill='url(%23fluentColorTable320)' rx='6'/%3E%3Cpath fill='url(%23fluentColorTable321)' d='M22 29h2.5a4.5 4.5 0 0 0 4.5-4.5V22h-7zm0-9h7v-8h-7zm-2-8v8h-8v-8zm2-2h7V7.5A4.5 4.5 0 0 0 24.5 3H22zm-2-7v7h-8V3zm0 19v7h-8v-7zm-10-2v-8H3v8zm0-10V3H7.5A4.5 4.5 0 0 0 3 7.5V10zm0 19v-7H3v2.5A4.5 4.5 0 0 0 7.5 29z'/%3E%3Cdefs%3E%3ClinearGradient id='fluentColorTable320' x1='4.857' x2='27.143' y1='4.857' y2='27.143' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%23B0F098'/%3E%3Cstop offset='1' stop-color='%2398F0B0'/%3E%3C/linearGradient%3E%3ClinearGradient id='fluentColorTable321' x1='3' x2='29' y1='3' y2='29' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%2342B870'/%3E%3Cstop offset='1' stop-color='%231A7F7C'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/g%3E%3C/svg%3E");
+}

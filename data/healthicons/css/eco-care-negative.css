@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48' width='48' height='48'%3E%3Cg fill='none'%3E%3Cg fill='black' fill-rule='evenodd' clip-path='url(%23healthiconsEcoCareNegative0)' clip-rule='evenodd'%3E%3Cpath d='M17 24.959c0 2.807 3.142 3.703 5.441 2.957c-1.098 3.251-.078 5.784.83 6.764l1.467-1.36c-.356-.384-1.164-1.945-.551-4.267C25.298 31.943 31 31.47 31 27.198V16c-2.882 2.439-5.961 3.403-8.495 4.197C19.323 21.193 17 21.92 17 24.959m7.433 3.32l-1.867-.707c.5-1.32 1.35-2.752 2.69-4.241a1 1 0 1 1 1.487 1.338c-1.183 1.315-1.901 2.53-2.31 3.61'/%3E%3Cpath d='M48 0H0v48h48zM15.563 7C10.035 7 6 12.64 6 18.724C6 32.304 24 41 24 41s18-9.256 18-22.276C42 12.642 37.965 7 32.438 7C28.602 7 25.755 9.531 24 13.121C22.243 9.531 19.398 7 15.563 7'/%3E%3C/g%3E%3Cdefs%3E%3CclipPath id='healthiconsEcoCareNegative0'%3E%3Cpath d='M0 0h48v48H0z'/%3E%3C/clipPath%3E%3C/defs%3E%3C/g%3E%3C/svg%3E");
+}

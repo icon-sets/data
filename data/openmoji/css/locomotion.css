@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 72 72' width='72' height='72'%3E%3Cg stroke-miterlimit='10' stroke-width='2'%3E%3Cpath fill='%2361B2E4' d='M12.013 16.02c0 7.5 5 13.75 5 13.75s5-6.25 5-13.75'/%3E%3Ccircle cx='17.013' cy='16.019' r='5' fill='%2392D3F5'/%3E%3Cpath fill='%23D22F27' d='M50.013 44.02c0 7.5 5 13.75 5 13.75s5-6.25 5-13.75'/%3E%3Ccircle cx='55.013' cy='44.019' r='5' fill='%23EA5A47'/%3E%3C/g%3E%3Cg fill='none' stroke='%23000' stroke-miterlimit='10' stroke-width='2'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' d='M12.013 16.02c0 7.5 5 13.75 5 13.75s5-6.25 5-13.75'/%3E%3Ccircle cx='17.013' cy='16.019' r='5'/%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' d='M50.013 44.02c0 7.5 5 13.75 5 13.75s5-6.25 5-13.75'/%3E%3Ccircle cx='55.013' cy='44.019' r='5'/%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' d='M17 33s16 0 17 14s16 14 21 14M31.971 21.741l12.058 10.518m-.482-7.055l.482 7.055m-7.055.481l7.055-.481'/%3E%3C/g%3E%3C/svg%3E");
+}

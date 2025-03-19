@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 26 26' width='26' height='26'%3E%3Cg fill='none'%3E%3Cdefs%3E%3Cmask id='pepiconsPencilTelevisionPlayCircleFilled0'%3E%3Cpath fill='%23fff' d='M0 0h26v26H0z'/%3E%3Cg fill='%23000' fill-rule='evenodd' clip-rule='evenodd'%3E%3Cpath d='M7.25 12v5a2 2 0 0 0 2 2h7.5a2 2 0 0 0 2-2v-5a2 2 0 0 0-2-2h-7.5a2 2 0 0 0-2 2m-1 0v5a3 3 0 0 0 3 3h7.5a3 3 0 0 0 3-3v-5a3 3 0 0 0-3-3h-7.5a3 3 0 0 0-3 3'/%3E%3Cpath d='M14.5 14.5L12 16v-3z'/%3E%3Cpath d='M15 14.5a.5.5 0 0 1-.243.429l-2.5 1.5A.5.5 0 0 1 11.5 16v-3a.5.5 0 0 1 .757-.429l2.5 1.5A.5.5 0 0 1 15 14.5m-2.5-.617v1.234l1.028-.617zm3.062-7.773a.5.5 0 0 1 .078.702l-2 2.5a.5.5 0 1 1-.78-.624l2-2.5a.5.5 0 0 1 .702-.078'/%3E%3Cpath d='M9.938 6.11a.5.5 0 0 1 .702.078l2 2.5a.5.5 0 1 1-.78.624l-2-2.5a.5.5 0 0 1 .078-.702'/%3E%3C/g%3E%3C/mask%3E%3C/defs%3E%3Ccircle cx='13' cy='13' r='13' fill='black' mask='url(%23pepiconsPencilTelevisionPlayCircleFilled0)'/%3E%3C/g%3E%3C/svg%3E");
+}

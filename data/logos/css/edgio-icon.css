@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 256 256' width='256' height='256'%3E%3Cdefs%3E%3CradialGradient id='logosEdgioIcon0' cx='104.362%25' cy='13.088%25' r='94.575%25' fx='104.362%25' fy='13.088%25'%3E%3Cstop offset='0%25' stop-color='%2301B07D'/%3E%3Cstop offset='100%25' stop-color='%2301B07D' stop-opacity='0'/%3E%3C/radialGradient%3E%3CradialGradient id='logosEdgioIcon1' cx='68.749%25' cy='120.916%25' r='68.487%25' fx='68.749%25' fy='120.916%25'%3E%3Cstop offset='0%25' stop-color='%2300AAE5'/%3E%3Cstop offset='100%25' stop-color='%2300AAE5' stop-opacity='0'/%3E%3C/radialGradient%3E%3ClinearGradient id='logosEdgioIcon2' x1='3.185%25' x2='57.325%25' y1='2.866%25' y2='58.917%25'%3E%3Cstop offset='0%25' stop-color='%23793092'/%3E%3Cstop offset='100%25' stop-color='%236144A1'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath fill='url(%23logosEdgioIcon2)' d='M0 0h256v256H0z'/%3E%3Cpath fill='url(%23logosEdgioIcon0)' d='M0 0h256v256H0z'/%3E%3Cpath fill='url(%23logosEdgioIcon1)' d='M0 0h256v256H0z'/%3E%3Cpath fill='%23FFF' d='m170.908 77.201l16.225-29.253H68.867v160.103h118.266l-16.144-29.293h-70.24v-36.819h55.755l8.983-29.294h-64.738V77.201z'/%3E%3C/svg%3E");
+}

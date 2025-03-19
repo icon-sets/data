@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' width='16' height='16'%3E%3Cg fill='none'%3E%3Cpath fill='url(%23fluentColorPerson160)' d='M11.5 8A1.5 1.5 0 0 1 13 9.5v.5c0 1.971-1.86 4-5 4s-5-2.029-5-4v-.5A1.5 1.5 0 0 1 4.5 8z'/%3E%3Cpath fill='url(%23fluentColorPerson161)' d='M11.5 8A1.5 1.5 0 0 1 13 9.5v.5c0 1.971-1.86 4-5 4s-5-2.029-5-4v-.5A1.5 1.5 0 0 1 4.5 8z'/%3E%3Cpath fill='url(%23fluentColorPerson162)' d='M8 1.5A2.75 2.75 0 1 1 8 7a2.75 2.75 0 0 1 0-5.5'/%3E%3Cdefs%3E%3ClinearGradient id='fluentColorPerson160' x1='5.378' x2='7.616' y1='8.798' y2='14.754' gradientUnits='userSpaceOnUse'%3E%3Cstop offset='.125' stop-color='%239C6CFE'/%3E%3Cstop offset='1' stop-color='%237A41DC'/%3E%3C/linearGradient%3E%3ClinearGradient id='fluentColorPerson161' x1='8' x2='11.164' y1='7.286' y2='17.139' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%23885EDB' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%23E362F8'/%3E%3C/linearGradient%3E%3ClinearGradient id='fluentColorPerson162' x1='6.558' x2='9.361' y1='2.231' y2='6.707' gradientUnits='userSpaceOnUse'%3E%3Cstop offset='.125' stop-color='%239C6CFE'/%3E%3Cstop offset='1' stop-color='%237A41DC'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/g%3E%3C/svg%3E");
+}

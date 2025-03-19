@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' width='32' height='32'%3E%3Cg fill='none'%3E%3Cpath fill='url(%23fluentColorApprovalsApp320)' d='M14.707 1.293a1 1 0 1 0-1.414 1.414l2.3 2.3C8.6 5.221 3 10.956 3 18c0 7.18 5.82 13 13 13s13-5.82 13-13v-.08c-.003-.52-.439-.92-.958-.92h-.086c-.537 0-.956.462-.956 1c0 6.075-4.925 11-11 11S5 24.075 5 18C5 12.066 9.698 7.23 15.578 7.008l-2.285 2.285a1 1 0 0 0 1.414 1.414l4-4a1 1 0 0 0 0-1.414z'/%3E%3Cpath fill='url(%23fluentColorApprovalsApp321)' d='M22.707 14.707a1 1 0 0 0-1.414-1.414L16 18.586l-2.293-2.293a1 1 0 0 0-1.414 1.414l3 3a1 1 0 0 0 1.414 0z'/%3E%3Cdefs%3E%3ClinearGradient id='fluentColorApprovalsApp320' x1='3' x2='12.128' y1='2.765' y2='35.888' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%230FAFFF'/%3E%3Cstop offset='1' stop-color='%230067BF'/%3E%3C/linearGradient%3E%3ClinearGradient id='fluentColorApprovalsApp321' x1='22.656' x2='9.08' y1='13.4' y2='20.149' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%2342B870'/%3E%3Cstop offset='1' stop-color='%23309C61'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/g%3E%3C/svg%3E");
+}

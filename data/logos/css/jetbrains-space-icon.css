@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 256 256' width='256' height='256'%3E%3Cdefs%3E%3ClinearGradient id='logosJetbrainsSpaceIcon0' x1='45.082%25' x2='55.522%25' y1='-1.343%25' y2='97.61%25'%3E%3Cstop offset='0%25' stop-color='%23FCF84A'/%3E%3Cstop offset='32%25' stop-color='%23ABE682'/%3E%3Cstop offset='79%25' stop-color='%2336CDD2'/%3E%3Cstop offset='100%25' stop-color='%2307C3F2'/%3E%3C/linearGradient%3E%3ClinearGradient id='logosJetbrainsSpaceIcon1' x1='-2.942%25' x2='100.445%25' y1='38.992%25' y2='62.105%25'%3E%3Cstop offset='0%25' stop-color='%233BEA62'/%3E%3Cstop offset='100%25' stop-color='%23087CFA'/%3E%3C/linearGradient%3E%3ClinearGradient id='logosJetbrainsSpaceIcon2' x1='-3.308%25' x2='111.745%25' y1='71.807%25' y2='15.462%25'%3E%3Cstop offset='0%25' stop-color='%23009AE5'/%3E%3Cstop offset='18%25' stop-color='%230490DD'/%3E%3Cstop offset='49%25' stop-color='%231073C6'/%3E%3Cstop offset='89%25' stop-color='%232346A1'/%3E%3Cstop offset='100%25' stop-color='%23293896'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath fill='url(%23logosJetbrainsSpaceIcon0)' d='M46.36 255.991c91.075-7.978 170.982-63.92 209.64-146.768C208.12 40.799 129.873.033 46.36 0Q35.2 0 23.936.99c-38.612 82.903-30.064 180.109 22.424 255'/%3E%3Cpath fill='url(%23logosJetbrainsSpaceIcon1)' d='M24.209 1.024a301.4 301.4 0 0 1 134.685 108.199H256C208.263 40.76 130.062-.03 46.6 0Q35.437 0 24.208 1.024'/%3E%3Cpath fill='url(%23logosJetbrainsSpaceIcon2)' d='M158.894 109.223C147.187 186.6 46.258 255.99 46.258 255.99c91.781-8.67 172.23-63.622 209.742-146.768z'/%3E%3C/svg%3E");
+}

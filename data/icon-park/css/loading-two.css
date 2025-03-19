@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48' width='48' height='48'%3E%3Cg fill='none' stroke='%23000' stroke-linecap='round' stroke-linejoin='round' stroke-width='4'%3E%3Cpath d='M24 3.99994V11.9999'/%3E%3Cpath d='M38.1421 9.85779L32.4852 15.5146'/%3E%3Cpath d='M44 23.9999H36'/%3E%3Cpath d='M38.1421 38.1421L32.4852 32.4852'/%3E%3Cpath d='M24 43.9999V35.9999'/%3E%3Cpath d='M9.85791 38.1421L15.5148 32.4852'/%3E%3Cpath d='M4 23.9999H12'/%3E%3Cpath d='M9.85791 9.85779L15.5148 15.5146'/%3E%3Cpath d='M16.3467 5.5224L17.8774 9.21792'/%3E%3Cpath d='M5.52246 16.3461L9.21798 17.8769'/%3E%3Cpath d='M5.52246 31.6537L9.21798 30.123'/%3E%3Cpath d='M16.3467 42.4777L17.8774 38.7822'/%3E%3Cpath d='M31.6538 42.4777L30.123 38.7822'/%3E%3Cpath d='M42.4777 31.6537L38.7822 30.123'/%3E%3Cpath d='M42.4777 16.3461L38.7822 17.8769'/%3E%3Cpath d='M31.6538 5.5224L30.123 9.21792'/%3E%3C/g%3E%3C/svg%3E");
+}

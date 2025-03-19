@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48' width='48' height='48'%3E%3Cdefs%3E%3Cpath id='arcticonsAerofoil0' fill='none' stroke='black' d='m10.06 15.8l9.84 16.4h14.76l6.56-9.84H28.1l-4.92-6.56z'/%3E%3C/defs%3E%3Cuse href='%23arcticonsAerofoil0' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' d='m19.9 32.2l3.28-6.56h8.2l3.28 6.56zm18.04-4.92h6.56l-3.28-4.92zM6.78 24L3.5 19.08h5.248zm3.28-8.2L6.78 24h8.2z'/%3E%3Cuse href='%23arcticonsAerofoil0' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' d='m19.9 32.2l3.28-6.56h8.2l3.28 6.56z'/%3E%3C/svg%3E");
+}

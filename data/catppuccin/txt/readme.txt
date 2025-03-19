@@ -1,0 +1,1 @@
+data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1em' height='1em' viewBox='0 0 16 16'%3E%3Cg fill='none' stroke='%238bd5ca' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M8 14.5a6.5 6.5 0 1 0 0-13a6.5 6.5 0 0 0 0 13'/%3E%3Cpath d='M7 7.5h2v5H7Zm2-3a1 1 0 0 1-1 1a1 1 0 0 1-1-1a1 1 0 0 1 1-1a1 1 0 0 1 1 1'/%3E%3C/g%3E%3C/svg%3E

@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 2000,
+  "height": 2000,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<g fill=\"currentColor\" fill-rule=\"evenodd\" stroke=\"currentColor\"><path d=\"M198 484h1604l-802 454z\"/><path d=\"m200 652l800 448l804-448v896H200z\"/></g>"
+}

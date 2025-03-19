@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 128 128' width='128' height='128'%3E%3ClinearGradient id='ssvg-id-dark-skin-tonea' x1='64' x2='64' y1='4.37' y2='123.52' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%2370534A' offset='0'/%3E%3Cstop stop-color='%236D5047' offset='.467'/%3E%3Cstop stop-color='%2363463D' offset='.842'/%3E%3Cstop stop-color='%235C4037' offset='1'/%3E%3C/linearGradient%3E%3Cpath fill='url(%23ssvg-id-dark-skin-tonea)' d='M4 4h120v120H4z'/%3E%3C/svg%3E");
+}

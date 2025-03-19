@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 301,
+  "height": 241,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<g fill=\"none\"><path fill=\"#CE1126\" d=\"M.5.5h300v120H.5z\"/><path fill=\"#FFF\" d=\"M.5 120.5h300v120H.5z\"/></g>"
+}

@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 32,
+  "height": 32,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<path fill=\"gray\" d=\"M12.068 2h6.866l-2.73 8.421l7.322-1.331L13.115 30l3.037-14.505L8.474 17z\"/>"
+}

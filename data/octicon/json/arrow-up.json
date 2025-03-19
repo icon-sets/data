@@ -1,0 +1,11 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 10,
+  "height": 16,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<path fill-rule=\"evenodd\" d=\"M5 3L0 9h3v4h4V9h3L5 3z\" fill=\"currentColor\"/>",
+  "hidden": true
+}

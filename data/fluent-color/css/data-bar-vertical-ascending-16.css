@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' width='16' height='16'%3E%3Cg fill='none'%3E%3Cpath fill='url(%23fluentColorDataBarVerticalAscending160)' d='M14 3.683C14 2.753 13.328 2 12.5 2S11 2.754 11 3.683v8.634c0 .93.672 1.683 1.5 1.683s1.5-.754 1.5-1.683z'/%3E%3Cpath fill='url(%23fluentColorDataBarVerticalAscending161)' d='M10.003 6.5a1.5 1.5 0 0 0-3 0v6a1.5 1.5 0 0 0 3 0z'/%3E%3Cpath fill='url(%23fluentColorDataBarVerticalAscending162)' d='M6 9.497a1.5 1.5 0 1 0-3 0v3a1.5 1.5 0 0 0 3 0z'/%3E%3Cdefs%3E%3ClinearGradient id='fluentColorDataBarVerticalAscending160' x1='13.605' x2='21.663' y1='-1.686' y2='2.075' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%2316BBDA'/%3E%3Cstop offset='1' stop-color='%230067BF'/%3E%3C/linearGradient%3E%3ClinearGradient id='fluentColorDataBarVerticalAscending161' x1='7.292' x2='14.437' y1='2.802' y2='7.168' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%2316BBDA'/%3E%3Cstop offset='1' stop-color='%230067BF'/%3E%3C/linearGradient%3E%3ClinearGradient id='fluentColorDataBarVerticalAscending162' x1='2.813' x2='8.145' y1='4.622' y2='9.509' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%2316BBDA'/%3E%3Cstop offset='1' stop-color='%230067BF'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/g%3E%3C/svg%3E");
+}

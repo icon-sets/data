@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1.36em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 256 189' width='256' height='189'%3E%3Cdefs%3E%3ClinearGradient id='logosStatuspage0' x1='50%25' x2='50%25' y1='82.799%25' y2='-5.781%25'%3E%3Cstop offset='0%25' stop-color='%232684FF'/%3E%3Cstop offset='82%25' stop-color='%230052CC'/%3E%3C/linearGradient%3E%3C/defs%3E%3Ccircle cx='128' cy='128.433' r='59.865' fill='url(%23logosStatuspage0)'/%3E%3Cpath fill='%232684FF' d='M1.616 59.255L33.8 97.374a6.86 6.86 0 0 0 9.744.72c52.118-46.73 116.657-46.73 168.912 0a6.86 6.86 0 0 0 9.744-.72l32.184-38.12a6.86 6.86 0 0 0-.79-9.64c-75.483-66.152-175.568-66.152-251.189 0a6.86 6.86 0 0 0-.789 9.64'/%3E%3C/svg%3E");
+}

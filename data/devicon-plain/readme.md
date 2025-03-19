@@ -1,0 +1,10 @@
+# Devicon Plain
+
+- Number of icons: 666
+- Author: konpa
+- URL: https://github.com/devicons/devicon/tree/master
+- License: MIT
+- License URL: https://github.com/devicons/devicon/blob/master/LICENSE
+- Version: undefined
+- Palette: Colorless
+- Icon set prefix: `devicon-plain`

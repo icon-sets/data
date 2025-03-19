@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48' width='48' height='48'%3E%3Cg fill='none' stroke-linejoin='round' stroke-width='4'%3E%3Cpath fill='%232F88FF' stroke='%23000' d='M24 44C33.9411 44 42 35.9411 42 26C42 16.0589 33.9411 8 24 8C14.0589 8 6 16.0589 6 26C6 35.9411 14.0589 44 24 44Z'/%3E%3Cpath stroke='%23000' stroke-linecap='round' d='M24 8C23.75 7 22 4 18 4'/%3E%3Cpath stroke='%23000' stroke-linecap='round' d='M24 8C24.0833 7 24.6 4.8 26 4'/%3E%3Cpath stroke='%23fff' stroke-linecap='round' d='M31 35C31 35 29 31 24 31C19 31 17 35 17 35'/%3E%3Cpath stroke='%23fff' stroke-linecap='round' d='M34 20L28 19'/%3E%3Cpath stroke='%23fff' stroke-linecap='round' d='M20 19L14 20'/%3E%3Cpath stroke='%23fff' stroke-linecap='round' d='M15 20V25'/%3E%3Cpath stroke='%23fff' stroke-linecap='round' d='M33 20V25'/%3E%3Cpath stroke='%23000' stroke-linecap='round' d='M4 24V28'/%3E%3Cpath stroke='%23000' stroke-linecap='round' d='M44 24V28'/%3E%3C/g%3E%3C/svg%3E");
+}

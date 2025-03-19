@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 256 256' width='256' height='256'%3E%3Cg fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' stroke-width='16'%3E%3Crect width='144' height='144' x='16' y='16' ry='32'/%3E%3Cpath d='M 95.999712,127.9996 A 31.999891,31.999891 0 0 1 127.9996,95.999712'/%3E%3Cpath d='m -239.99922,127.9996 a 31.999891,31.999891 0 0 1 31.99989,-31.999888' transform='scale(-1 1)'/%3E%3Cpath d='m -239.99922,-207.99933 a 31.999891,31.999891 0 0 1 31.99989,-31.99989' transform='scale(-1)'/%3E%3Cpath d='M 95.999712,-207.99933 A 31.999891,31.999891 0 0 1 127.9996,-239.99922' transform='scale(1 -1)'/%3E%3Cpath d='m 159.99949,239.99923 h 15.99995'/%3E%3Cpath d='m 159.99949,95.9997 h 15.99995'/%3E%3Cpath d='m 95.999709,159.99949 v 15.99995'/%3E%3Cpath d='m 239.99923,159.99949 v 15.99995'/%3E%3C/g%3E%3C/svg%3E");
+}

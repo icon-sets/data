@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'%3E%3Cellipse cx='12' cy='5' fill='black' rx='4' ry='4'%3E%3Canimate id='svgSpinnersBouncingBall0' fill='freeze' attributeName='cy' begin='0;svgSpinnersBouncingBall2.end' calcMode='spline' dur='0.375s' keySplines='.33,0,.66,.33' values='5;20'/%3E%3Canimate attributeName='rx' begin='svgSpinnersBouncingBall0.end' calcMode='spline' dur='0.05s' keySplines='.33,0,.66,.33;.33,.66,.66,1' values='4;4.8;4'/%3E%3Canimate attributeName='ry' begin='svgSpinnersBouncingBall0.end' calcMode='spline' dur='0.05s' keySplines='.33,0,.66,.33;.33,.66,.66,1' values='4;3;4'/%3E%3Canimate id='svgSpinnersBouncingBall1' attributeName='cy' begin='svgSpinnersBouncingBall0.end' calcMode='spline' dur='0.025s' keySplines='.33,0,.66,.33' values='20;20.5'/%3E%3Canimate id='svgSpinnersBouncingBall2' attributeName='cy' begin='svgSpinnersBouncingBall1.end' calcMode='spline' dur='0.4s' keySplines='.33,.66,.66,1' values='20.5;5'/%3E%3C/ellipse%3E%3C/svg%3E");
+}

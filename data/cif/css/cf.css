@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1.5em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 301 201' width='301' height='201'%3E%3Cg fill='none'%3E%3Cpath fill='%23003082' d='M.5.5h300v50H.5z'/%3E%3Cpath fill='%23FFF' d='M.5 50.5h300v50H.5z'/%3E%3Cpath fill='%23289728' d='M.5 100.5h300v50H.5z'/%3E%3Cpath fill='%23FFCE00' d='M.5 150.5h300v50H.5z'/%3E%3Cpath fill='%23D21034' d='M125.5.5h50v200h-50z'/%3E%3Cpath fill='%23FFCE00' d='m50.5 5.148l5.052 15.548h16.347l-13.226 9.608l5.053 15.548L50.5 36.243l-13.225 9.609l5.051-15.548l-13.225-9.608h16.348z'/%3E%3C/g%3E%3C/svg%3E");
+}

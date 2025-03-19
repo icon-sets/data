@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 48,
+  "height": 48,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<g fill=\"none\" stroke=\"#000\" stroke-linejoin=\"round\" stroke-width=\"4\"><path fill=\"#2F88FF\" d=\"M6 10V22H38L44 16L38 10H6Z\"/><path stroke-linecap=\"round\" d=\"M23 22V44\"/><path stroke-linecap=\"round\" d=\"M23 4V10\"/><path stroke-linecap=\"round\" d=\"M18 44H28\"/></g>"
+}

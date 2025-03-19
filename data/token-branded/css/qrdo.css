@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'%3E%3Cg fill='none'%3E%3Cpath fill='url(%23tokenBrandedQrdo0)' d='M12 5.81a6.188 6.188 0 0 0-6.064 7.424a1.406 1.406 0 1 1-2.756.563a9 9 0 1 1 17.82-1.8h-2.813A6.19 6.19 0 0 0 12 5.809'/%3E%3Cpath fill='url(%23tokenBrandedQrdo1)' d='M19.2 9.186a1.407 1.407 0 0 1 1.643 1.125q.157.831.157 1.677v.005c0 2.295-.86 4.388-2.273 5.98l.546.658a1.407 1.407 0 0 1-2.171 1.788l-.546-.663a9 9 0 0 1-12.342-3.248A9 9 0 0 1 3 11.993h2.813a6.187 6.187 0 0 0 8.92 5.552l-.82-.996a1.405 1.405 0 0 1 .19-1.98a1.407 1.407 0 0 1 1.98.192l.833 1.007a6.16 6.16 0 0 0 1.17-4.933a1.406 1.406 0 0 1 1.12-1.643z'/%3E%3Cpath fill='%23FFE000' d='M5.83 12.47a7 7 0 0 0 .106.765a1.406 1.406 0 0 1-2.756.562a9 9 0 0 1-.18-1.8h2.813'/%3E%3Cdefs%3E%3ClinearGradient id='tokenBrandedQrdo0' x1='19.031' x2='3.736' y1='11.485' y2='15.06' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%232DDE41'/%3E%3Cstop offset='1' stop-color='%23FFE000'/%3E%3C/linearGradient%3E%3ClinearGradient id='tokenBrandedQrdo1' x1='26.062' x2='6.373' y1='14.578' y2='14.763' gradientUnits='userSpaceOnUse'%3E%3Cstop offset='.36' stop-color='%23FF26EB'/%3E%3Cstop offset='.66' stop-color='%23137FF9'/%3E%3Cstop offset='1' stop-color='%2327B3F9'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/g%3E%3C/svg%3E");
+}

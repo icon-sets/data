@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 50,
+  "height": 50,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<circle cx=\"25\" cy=\"25\" r=\"24\" fill=\"currentColor\"/>"
+}

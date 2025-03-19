@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' width='512' height='512'%3E%3Cpath fill='%2312ad2b' d='M0 0h512v512H0z'/%3E%3Cpath fill='%23ffce00' d='M0 146.3h512v219.4H0z'/%3E%3Cpath fill='%23d21034' d='M0 0v512l192-256'/%3E%3Cg id='flagSt1x10' transform='translate(276.9 261.5)scale(.33167)'%3E%3Cg id='flagSt1x11'%3E%3Cpath id='flagSt1x12' fill='%23000001' d='M0-200V0h100' transform='rotate(18 0 -200)'/%3E%3Cuse width='100%25' height='100%25' href='%23flagSt1x12' transform='scale(-1 1)'/%3E%3C/g%3E%3Cuse width='100%25' height='100%25' href='%23flagSt1x11' transform='rotate(72)'/%3E%3Cuse width='100%25' height='100%25' href='%23flagSt1x11' transform='rotate(144)'/%3E%3Cuse width='100%25' height='100%25' href='%23flagSt1x11' transform='rotate(-144)'/%3E%3Cuse width='100%25' height='100%25' href='%23flagSt1x11' transform='rotate(-72)'/%3E%3C/g%3E%3Cuse width='100%25' height='100%25' x='700' href='%23flagSt1x10' transform='translate(-550.9)'/%3E%3C/svg%3E");
+}

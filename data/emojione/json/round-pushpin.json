@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 64,
+  "height": 64,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<path fill=\"#d0d0d0\" d=\"M42.6 29.4L2 62l32.6-40.6z\"/><circle cx=\"45\" cy=\"19\" r=\"17\" fill=\"#ed4c5c\"/>"
+}

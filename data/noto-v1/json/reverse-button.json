@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 128,
+  "height": 128,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<path fill=\"#40c0e7\" d=\"M106 112.5v-97L22 64z\"/>"
+}

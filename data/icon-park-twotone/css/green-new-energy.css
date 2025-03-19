@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48' width='48' height='48'%3E%3Cdefs%3E%3Cmask id='ipTGreenNewEnergy0'%3E%3Cg fill='none' stroke='%23fff' stroke-linecap='round' stroke-linejoin='round' stroke-width='4'%3E%3Cpath d='M42.336 16C39.249 8.936 32.2 4 24 4S8.75 8.936 5.664 16'/%3E%3Cpath fill='%23555' d='M24 14a19.94 19.94 0 0 0-6 14.283q0 .75.055 1.488A19.94 19.94 0 0 1 24 44a19.94 19.94 0 0 1 5.945-14.23q.055-.736.055-1.487A19.94 19.94 0 0 0 24 14'/%3E%3Cpath fill='%23555' d='M4 24c0 11.046 8.954 20 20 20a19.94 19.94 0 0 0-5.945-14.23A19.94 19.94 0 0 0 4 24'/%3E%3Cpath fill='%23555' d='M44 24c0 11.046-8.954 20-20 20a19.94 19.94 0 0 1 5.945-14.23A19.94 19.94 0 0 1 44 24'/%3E%3C/g%3E%3C/mask%3E%3C/defs%3E%3Cpath fill='black' d='M0 0h48v48H0z' mask='url(%23ipTGreenNewEnergy0)'/%3E%3C/svg%3E");
+}

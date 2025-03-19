@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'%3E%3Cg fill='none'%3E%3Cg stroke='black' stroke-linejoin='round' stroke-width='2' clip-path='url(%23akarIconsLifesaver0)'%3E%3Ccircle cx='12' cy='12' r='10' stroke-linecap='round' transform='rotate(45 12 12)'/%3E%3Ccircle cx='12' cy='12' r='4' stroke-linecap='round' transform='rotate(45 12 12)'/%3E%3Cpath d='m19.071 4.929l-4.243 4.243m-5.656 5.656l-4.243 4.243m14.142 0l-4.243-4.243M9.172 9.172L4.929 4.929'/%3E%3C/g%3E%3Cdefs%3E%3CclipPath id='akarIconsLifesaver0'%3E%3Cpath fill='%23fff' d='M0 0h24v24H0z'/%3E%3C/clipPath%3E%3C/defs%3E%3C/g%3E%3C/svg%3E");
+}

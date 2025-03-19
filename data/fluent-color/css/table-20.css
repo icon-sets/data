@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' width='20' height='20'%3E%3Cg fill='none'%3E%3Crect width='14' height='14' x='3' y='3' fill='url(%23fluentColorTable200)' rx='3.5'/%3E%3Cpath fill='url(%23fluentColorTable201)' d='M13 17h1.5a2.5 2.5 0 0 0 2.5-2.5V13h-4zm0-5V8h4v4zm-1 0H8V8h4zm-4 1h4v4H8zm-1-1V8H3v4zm-4 1h4v4H5.5A2.5 2.5 0 0 1 3 14.5zm10-6h4V5.5A2.5 2.5 0 0 0 14.5 3H13zm-1-4v4H8V3zM7 3v4H3V5.5A2.5 2.5 0 0 1 5.5 3z'/%3E%3Cdefs%3E%3ClinearGradient id='fluentColorTable200' x1='4' x2='16' y1='4' y2='16' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%23B0F098'/%3E%3Cstop offset='1' stop-color='%2398F0B0'/%3E%3C/linearGradient%3E%3ClinearGradient id='fluentColorTable201' x1='3' x2='17' y1='3' y2='17' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%2342B870'/%3E%3Cstop offset='1' stop-color='%231A7F7C'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/g%3E%3C/svg%3E");
+}

@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 48,
+  "height": 48,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M24 18v12m-4.5-18v12m9 0v12M6 42V6m4.5 36V6M15 42V6m18 36V6m9 36V6m-4.5 36V6\"/>"
+}

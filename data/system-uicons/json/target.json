@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 21,
+  "height": 21,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<g fill=\"none\" fill-rule=\"evenodd\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"10.5\" cy=\"10.5\" r=\"8\"/><circle cx=\"10.5\" cy=\"10.5\" r=\"2\"/><circle cx=\"10.5\" cy=\"10.5\" r=\"5\"/></g>"
+}

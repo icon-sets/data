@@ -1,0 +1,1 @@
+data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1.6em' height='1em' viewBox='0 0 1024 640'%3E%3Cpath fill='currentColor' d='M832 640V0h192v640zM512 256q0-27-18.5-45.5T448 192H192v448H0V0h512q80 0 136 56t56 136v448H512zm-64 384H256V256h192z'/%3E%3C/svg%3E

@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1.34em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 24' width='32' height='24'%3E%3Cg fill='none'%3E%3Cpath fill='%231B1B1B' fill-rule='evenodd' d='M0 0h32v24H0z' clip-rule='evenodd'/%3E%3Cpath fill='%23F9D313' fill-rule='evenodd' d='m16 14l-2.003 3.8l.05-4.196l-3.658 2.65l2.093-3.76l-4.59.977l3.72-2.58L7 10l4.613-.89L7.89 6.529l4.59.977l-2.092-3.76l3.659 2.65l-.05-4.195L16 6l2.003-3.8l-.05 4.196l3.658-2.65l-2.093 3.76l4.59-.977l-3.72 2.58L25 10l-4.613.89l3.722 2.581l-4.59-.977l2.092 3.76l-3.658-2.65l.05 4.195z' clip-rule='evenodd'/%3E%3Cpath fill='%23F1F9FF' d='M6 14h20v10H6z'/%3E%3Cpath fill='%234A80E8' d='M2 10h28v4H2z'/%3E%3Cpath fill='%23E31D1C' fill-rule='evenodd' d='m0 6l16 18L32 6v18H0z' clip-rule='evenodd'/%3E%3C/g%3E%3C/svg%3E");
+}

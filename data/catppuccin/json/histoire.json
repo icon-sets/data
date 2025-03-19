@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 16,
+  "height": 16,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<g fill=\"none\" stroke=\"#a6da95\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"m5 4.5l2.5 3l3-2l1.5 6l-2.5-3l-3 2z\"/><path d=\"m2.5 1.5l11-1l1 14l-11 1z\"/></g>"
+}

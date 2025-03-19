@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'%3E%3Cg fill='none'%3E%3Cpath fill='url(%23fluentColorLaptop240)' d='M6.254 16L12 15.469l5.754.531h.065a1 1 0 0 1 .35.064l3.126 1.172c.423.158.704.562.705 1.014H2c0-.451.28-.855.702-1.013l3.128-1.173A1 1 0 0 1 6.181 16z'/%3E%3Cpath fill='url(%23fluentColorLaptop241)' d='M2.75 17.5a.75.75 0 0 0 0 1.5h18.5a.75.75 0 0 0 0-1.5z'/%3E%3Cpath fill='url(%23fluentColorLaptop242)' d='M4 6.25A2.25 2.25 0 0 1 6.25 4h11.5A2.25 2.25 0 0 1 20 6.25v7.5A2.25 2.25 0 0 1 17.75 16H6.25A2.25 2.25 0 0 1 4 13.75z'/%3E%3Cdefs%3E%3ClinearGradient id='fluentColorLaptop240' x1='22' x2='20.765' y1='18.912' y2='12.254' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%2363686E'/%3E%3Cstop offset='1' stop-color='%23889096'/%3E%3C/linearGradient%3E%3ClinearGradient id='fluentColorLaptop241' x1='22' x2='21.792' y1='18.893' y2='16.123' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%23889096'/%3E%3Cstop offset='1' stop-color='%23AAB3BD'/%3E%3C/linearGradient%3E%3ClinearGradient id='fluentColorLaptop242' x1='15.2' x2='15.95' y1='4' y2='17.722' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%236CE0FF'/%3E%3Cstop offset='1' stop-color='%234894FE'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/g%3E%3C/svg%3E");
+}

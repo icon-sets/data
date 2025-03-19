@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' width='512' height='512'%3E%3Cmask id='circleFlagsRn0'%3E%3Ccircle cx='256' cy='256' r='256' fill='%23fff'/%3E%3C/mask%3E%3Cg mask='url(%23circleFlagsRn0)'%3E%3Cpath fill='%23eee' d='M0 0h47.2l207.5 30L464.8 0H512v47.2L477.4 256L512 464.8V512h-47.2l-209.1-35.8L47.2 512H0v-47.2l32.8-202.7L0 47.2z'/%3E%3Cpath fill='%23d80027' d='M47.2 0L256 208.8L464.8 0zM256 303.2L47.2 512h417.6z'/%3E%3Cpath fill='%236da544' d='M0 47.2v417.6L208.8 256zm512 0L303.2 256L512 464.8z'/%3E%3Ccircle cx='256' cy='256' r='111.3' fill='%23eee'/%3E%3Cpath fill='%23d80027' d='m256 178l9.6 16.8H285l-9.6 16.7l9.6 16.7h-19.3l-9.6 16.7l-9.6-16.7H227l9.6-16.7l-9.6-16.7h19.3zm-49 78l9.6 16.7H236l-9.6 16.7l9.6 16.7h-19.3l-9.6 16.7l-9.6-16.7H178l9.6-16.7l-9.6-16.7h19.3zm98 0l9.6 16.7H334l-9.6 16.7l9.6 16.7h-19.3l-9.6 16.7l-9.6-16.7H276l9.6-16.7l-9.6-16.7h19.3z'/%3E%3C/g%3E%3C/svg%3E");
+}

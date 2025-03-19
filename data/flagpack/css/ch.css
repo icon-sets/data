@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1.34em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 24' width='32' height='24'%3E%3Cg fill='none'%3E%3Cpath fill='%23E31D1C' fill-rule='evenodd' d='M0 0v24h32V0z' clip-rule='evenodd'/%3E%3Cmask id='flagpackCh0' width='32' height='24' x='0' y='0' maskUnits='userSpaceOnUse' style='mask-type:luminance'%3E%3Cpath fill='%23fff' fill-rule='evenodd' d='M0 0v24h32V0z' clip-rule='evenodd'/%3E%3C/mask%3E%3Cg mask='url(%23flagpackCh0)'%3E%3Cpath fill='%23F1F9FF' fill-rule='evenodd' d='M18 6h-4v4h-4v4h4v4h4v-4h4v-4h-4z' clip-rule='evenodd'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}

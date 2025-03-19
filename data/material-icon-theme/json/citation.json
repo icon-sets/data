@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 16,
+  "height": 16,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<g fill=\"none\" fill-rule=\"evenodd\"><path fill=\"#1E88E5\" fill-rule=\"nonzero\" d=\"M10 13h3l2-4V3H9v6h3M2 13h3l2-4V3H1v6h3z\"/><path d=\"M0 0h16v16H0z\"/></g>"
+}

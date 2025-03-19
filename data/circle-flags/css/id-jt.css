@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' width='512' height='512'%3E%3Cmask id='circleFlagsIdJt0'%3E%3Ccircle cx='256' cy='256' r='256' fill='%23fff'/%3E%3C/mask%3E%3Cg mask='url(%23circleFlagsIdJt0)'%3E%3Cpath fill='%23ffda44' d='M0 0h512v512H0Z'/%3E%3Cpath fill='%23d80027' d='m256 114l-6 2l-95 78c-4 3-4 9-1 13l102-33l102 33c3-4 3-10-1-13l-95-78z'/%3E%3Cpath fill='%23eee' d='M278 231h-1zm-43 0'/%3E%3Cpath fill='%236da544' d='m256 134l-99 72l6 22l51-32l42 25l42-25l51 32l6-22z'/%3E%3Cpath fill='%23333' d='m256 191l-28 60l-9-21l-10 21l-7-16l-10 21l-7-16l-13 27l14 23h140l14-23l-12-27l-8 16l-10-21l-7 16l-10-21l-9 21zm62 134'/%3E%3Cpath fill='%23338af3' d='m183 290l11 32h124l11-32h-73z'/%3E%3Cpath fill='%23eee' d='M256 129a4 4 0 0 0-2 1l-100 73a4 4 0 0 0-2 4l38 117a4 4 0 0 0 4 3h124a4 4 0 0 0 4-3l38-117a4 4 0 0 0-2-4l-100-73a4 4 0 0 0-2-1m0 9l95 70l-36 111H197l-36-111z'/%3E%3Crect width='9' height='142' x='252' y='170' fill='%23ff9811' rx='4.5' ry='4.5'/%3E%3Crect width='128' height='24' x='192' y='338' fill='%23d80027' rx='12' ry='12'/%3E%3Crect width='160' height='24' x='176' y='350' fill='%23eee' rx='12' ry='12'/%3E%3Cpath fill='%23ffda44' d='m242 191l14-42l14 42l-36-26h44z'/%3E%3C/g%3E%3C/svg%3E");
+}

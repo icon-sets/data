@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 128 128' width='128' height='128'%3E%3Cg fill='none' stroke='%23f79229' stroke-miterlimit='10' stroke-width='11'%3E%3Ccircle cx='64' cy='64' r='58'/%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' d='M64 6v116m0-58l41.01 41.01m-82.02 0L64 64'/%3E%3C/g%3E%3C/svg%3E");
+}

@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'%3E%3Cmask id='lineMdEngineOff0'%3E%3Cg fill='none' stroke='%23fff' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'%3E%3Cpath stroke-dasharray='48' stroke-dashoffset='48' d='M11 9h6v10h-6.5l-2 -2h-2.5v-6.5l1.5 -1.5Z'%3E%3Canimate fill='freeze' attributeName='stroke-dashoffset' dur='0.6s' values='48;0'/%3E%3C/path%3E%3Cpath fill='%23fff' fill-opacity='0' d='M17 13h0v-3h0v8h0v-3h0z' opacity='0'%3E%3Canimate fill='freeze' attributeName='d' begin='0.6s' dur='0.2s' values='M17 13h0v-3h0v8h0v-3h0z;M17 13h4v-3h1v8h-1v-3h-4z'/%3E%3Cset fill='freeze' attributeName='fill-opacity' begin='0.8s' to='1'/%3E%3Cset fill='freeze' attributeName='opacity' begin='0.6s' to='1'/%3E%3C/path%3E%3Cpath d='M6 14h0M6 11v6' opacity='0'%3E%3Canimate fill='freeze' attributeName='d' begin='0.8s' dur='0.2s' values='M6 14h0M6 11v6;M6 14h-4M2 11v6'/%3E%3Cset fill='freeze' attributeName='opacity' begin='0.8s' to='1'/%3E%3C/path%3E%3Cpath d='M11 9v0M8 9h6' opacity='0'%3E%3Canimate fill='freeze' attributeName='d' begin='1s' dur='0.2s' values='M11 9v0M8 9h6;M11 9v-4M8 5h6'/%3E%3Cset fill='freeze' attributeName='opacity' begin='1s' to='1'/%3E%3C/path%3E%3Cpath stroke='%23000' stroke-dasharray='28' stroke-dashoffset='28' d='M0 11h26' transform='rotate(45 12 12)'%3E%3Canimate fill='freeze' attributeName='stroke-dashoffset' begin='1.3s' dur='0.4s' values='28;0'/%3E%3C/path%3E%3Cpath stroke-dasharray='28' stroke-dashoffset='28' d='M0 13h26' transform='rotate(45 12 12)'%3E%3Canimate fill='freeze' attributeName='stroke-dashoffset' begin='1.3s' dur='0.4s' values='28;0'/%3E%3C/path%3E%3C/g%3E%3C/mask%3E%3Crect width='24' height='24' fill='black' mask='url(%23lineMdEngineOff0)'/%3E%3C/svg%3E");
+}

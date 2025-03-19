@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 24,
+  "height": 24,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<rect width=\"17\" height=\"3\" x=\"3.5\" y=\"9.5\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" rx=\"1.5\"/>"
+}

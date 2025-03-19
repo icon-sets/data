@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 36,
+  "height": 36,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<path fill=\"currentColor\" d=\"M30 32H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h24a2 2 0 0 1 2 2v24a2 2 0 0 1-2 2M6 6v24h24V6Z\" class=\"clr-i-outline clr-i-outline-path-1\"/><path fill=\"none\" d=\"M0 0h36v36H0z\"/>"
+}

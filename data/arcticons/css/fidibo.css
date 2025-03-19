@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48' width='48' height='48'%3E%3Cpath fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' d='M14.008 40.474a7.842 7.842 0 0 1 0-15.684h27.816M14.008 40.475h27.816'/%3E%3Cpath fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' d='M14.506 35.259a2.628 2.628 0 0 1 0-5.256H38.49m-23.983 5.256H38.49'/%3E%3Cellipse cx='11.887' cy='13.92' fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' rx='6.387' ry='6.395'/%3E%3Cellipse cx='36.112' cy='13.92' fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' rx='6.387' ry='6.395'/%3E%3Cpath fill='none' stroke='black' stroke-linecap='round' stroke-linejoin='round' d='M26.84 20.314h9.272m-24.225 0h9.27'/%3E%3C/svg%3E");
+}

@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 256 256' width='256' height='256'%3E%3Cg fill='none'%3E%3Crect width='256' height='256' fill='%23242938' rx='60'/%3E%3Cpath fill='%2300E8FF' d='m88 148l20-60l90 90l-30 50l-40-40h-20'/%3E%3Cpath fill='%23283198' d='M128 188v-80l40-40v80M48 188l40 40l20-40l-20-40H68'/%3E%3Cpath fill='%23324FFF' d='M88 148V68l40-40v80m40 120v-80l40-40v80m-160 0v-80l40 40'/%3E%3Cpath fill='%230FF' d='M88 228v-80l40 40'/%3E%3C/g%3E%3C/svg%3E");
+}

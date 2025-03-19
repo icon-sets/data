@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 48,
+  "height": 48,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<defs><mask id=\"ipTLightning0\"><path fill=\"#555\" stroke=\"#fff\" stroke-linejoin=\"round\" stroke-width=\"4\" d=\"M19 4h18L26 18h15L17 44l5-19H8z\"/></mask></defs><path fill=\"currentColor\" d=\"M0 0h48v48H0z\" mask=\"url(#ipTLightning0)\"/>"
+}

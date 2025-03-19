@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 12,
+  "height": 12,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<g fill=\"currentColor\"><circle cx=\"1.5\" cy=\"6\" r=\"1.5\"/><circle cx=\"10.5\" cy=\"6\" r=\"1.5\"/><circle cx=\"6\" cy=\"6\" r=\"1.5\"/></g>"
+}

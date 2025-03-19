@@ -1,0 +1,10 @@
+{
+  "left": 0,
+  "top": 0,
+  "width": 16,
+  "height": 16,
+  "rotate": 0,
+  "vFlip": false,
+  "hFlip": false,
+  "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" d=\"M4.5.5v2m0 8v5m7-15v5m0 8v2\"/><g fill=\"currentColor\"><circle cx=\"4.5\" cy=\"6.5\" r=\"2.5\"/><circle cx=\"11.5\" cy=\"9.5\" r=\"2.5\"/></g>"
+}

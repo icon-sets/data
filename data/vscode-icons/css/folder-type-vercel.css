@@ -1,0 +1,8 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 150 150' width='150' height='150'%3E%3Cg fill='none'%3E%3Cdefs%3E%3ClinearGradient id='vscodeIconsFolderTypeVercel0' x1='219.28' x2='112.62' y1='236.67' y2='90.238' gradientTransform='translate(2.439 13.9)scale(.93116)' gradientUnits='userSpaceOnUse'%3E%3Cstop offset='0'/%3E%3Cstop offset='1' stop-color='%23fff'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath fill='%2352525b' d='M128.3 25.879H84.707l-9.844 19.688H20.02v78.75h118.12V25.879zm0 19.688H89.863l5.156-9.844H128.3z'/%3E%3Cpath fill='url(%23vscodeIconsFolderTypeVercel0)' fill-rule='evenodd' d='m103.18 66.045l39.283 69.837H63.896z' clip-rule='evenodd'/%3E%3C/g%3E%3C/svg%3E");
+}

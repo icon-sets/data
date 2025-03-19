@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 36 36' width='36' height='36'%3E%3Cpath fill='black' d='M8 12h4v8H8z' class='clr-i-outline clr-i-outline-path-1'/%3E%3Cpath fill='black' d='M16 12h4v8h-4z' class='clr-i-outline clr-i-outline-path-2'/%3E%3Cpath fill='black' d='M24 12h4v8h-4z' class='clr-i-outline clr-i-outline-path-3'/%3E%3Cpath fill='black' d='M15 27H4V17H2v10a2 2 0 0 0 2 2h12.61v-3.45h2.26V24H15Z' class='clr-i-outline clr-i-outline-path-4'/%3E%3Cpath fill='black' d='M32 7H4a2 2 0 0 0-2 2v4h2V9h28v4h2V9a2 2 0 0 0-2-2' class='clr-i-outline clr-i-outline-path-5'/%3E%3Cpath fill='black' d='M32 27H19v2h13a2 2 0 0 0 2-2V17h-2Z' class='clr-i-outline clr-i-outline-path-6'/%3E%3Cpath fill='none' d='M0 0h36v36H0z'/%3E%3C/svg%3E");
+}
