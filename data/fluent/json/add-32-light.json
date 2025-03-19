@@ -6,5 +6,5 @@
   "rotate": 0,
   "vFlip": false,
   "hFlip": false,
-  "body": "<path fill=\"currentColor\" d=\"M16 3a.5.5 0 0 0-1 0v12H3a.5.5 0 0 0 0 1h12v12a.5.5 0 0 0 1 0V16h12a.5.5 0 0 0 0-1H16z\"/>"
+  "body": "<path fill=\"currentColor\" d=\"M16.5 3.5a.5.5 0 0 0-1 0v12h-12a.5.5 0 0 0 0 1h12v12a.5.5 0 0 0 1 0v-12h12a.5.5 0 0 0 0-1h-12z\"/>"
 }

@@ -1,6 +1,6 @@
 # Health Icons
 
-- Number of icons: 1886
+- Number of icons: 1994
 - Author: Resolve to Save Lives
 - URL: https://github.com/resolvetosavelives/healthicons
 - License: MIT

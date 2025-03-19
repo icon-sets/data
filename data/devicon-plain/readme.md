@@ -1,6 +1,6 @@
 # Devicon Plain
 
-- Number of icons: 666
+- Number of icons: 668
 - Author: konpa
 - URL: https://github.com/devicons/devicon/tree/master
 - License: MIT

@@ -1,6 +1,6 @@
 # Material Icon Theme
 
-- Number of icons: 1020
+- Number of icons: 1028
 - Author: Material Extensions
 - URL: https://github.com/material-extensions/vscode-material-icon-theme
 - License: MIT

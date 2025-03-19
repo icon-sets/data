@@ -1,6 +1,6 @@
 # Catppuccin Icons
 
-- Number of icons: 539
+- Number of icons: 558
 - Author: Catppuccin
 - URL: https://github.com/catppuccin/vscode-icons
 - License: MIT

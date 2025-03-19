@@ -1,6 +1,6 @@
 # Devicon
 
-- Number of icons: 906
+- Number of icons: 912
 - Author: konpa
 - URL: https://github.com/devicons/devicon/tree/master
 - License: MIT
